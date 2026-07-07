@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./assets/terminal.gif" width="900" alt="SOC Terminal Animation">
+</p>
+
+
+
+
+
 ██████████████████████████████████
 
      FULL WIDTH CYBER BANNER
