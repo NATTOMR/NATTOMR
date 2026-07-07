@@ -389,3 +389,151 @@ A quick overview of my GitHub activity, programming languages, contribution hist
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--           CERTIFICATIONS & LEARNING                       -->
+<!-- ========================================================= -->
+
+# 🎓 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Ethical%20Hacking-005BAC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=for-the-badge"/>
+
+</p>
+
+> **More certifications will be added as I continue learning and expanding my cybersecurity expertise.**
+
+---
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🛡 Blue Team
+
+Threat Hunting
+
+Detection Engineering
+
+SOC Operations
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔍 Malware
+
+Reverse Engineering
+
+Static Analysis
+
+Dynamic Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁ Cloud
+
+AWS Security
+
+Microsoft Sentinel
+
+Cloud SOC
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Career Goal
+
+> To become a **Security Operations Center (SOC) Analyst** and **Detection Engineer**, building practical security solutions that improve threat detection, incident response, and cyber defense.
+
+---
+
+# 🏆 GitHub Highlights
+
+- 🛡️ Wazuh-Based SOC Home Lab
+- 🤖 Hybrid Android Malware Detection System
+- 🌐 Personal Portfolio Website
+- 🔍 Malware Analysis
+- 📊 Threat Detection & Log Analysis
+- 🐍 Python Automation
+- 🖥 Linux System Administration
+
+---
+
+# 📅 Roadmap
+
+```text
+2026
+│
+├── ✅ Build Wazuh SOC Home Lab
+│
+├── ✅ Complete Android Malware Detection Project
+│
+├── 🔄 Detection Engineering
+│
+├── 🔄 Threat Hunting
+│
+├── 🔄 Cloud Security
+│
+└── 🎯 Cybersecurity Internship
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"Security is not a product, but a continuous process of learning, adapting, and improving."**
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thank you for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=120&section=footer"/>
+
+</div>
