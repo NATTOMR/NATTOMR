@@ -79,3 +79,29 @@ Cybersecurity Student • SOC Analyst • Blue Team Enthusiast
 </tr>
 
 </table>
+
+## 🎯 Current Focus
+
+- 🛡 Building Enterprise SOC Home Labs
+
+- 📊 SIEM & Threat Detection
+
+- 🔍 Malware Analysis
+
+- ⚡ Detection Engineering
+
+- 🧰 Digital Forensics
+
+- ☁ Cloud Security
+
+- <p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,java,linux,ubuntu,docker,git,github,vscode,nextjs,nodejs,flask"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,java,linux,ubuntu,docker,git,github,vscode,nextjs,nodejs,flask"/>
+
+</p>
