@@ -1,16 +1,84 @@
-## Hi there 👋
+--------------------------------------------------------
+                 Banner (Cybersecurity)
+--------------------------------------------------------
 
-<!--
-**NATTOMR/NATTOMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Natto Muni Chakma
 
-Here are some ideas to get you started:
+Cybersecurity Student | SOC Analyst | Malware Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 ICCR Scholar
+🎓 Andhra University
+🛡️ Blue Team Enthusiast
+🔍 Malware Analysis
+⚡ Wazuh • Splunk • Suricata • Kali Linux
+
+--------------------------------------------------------
+About Me
+--------------------------------------------------------
+
+I build cybersecurity home labs,
+analyze malware,
+investigate attacks,
+and create detection rules.
+
+Currently working on:
+
+• Wazuh SOC Home Lab
+• Hybrid Android Malware Detection
+• Threat Detection
+• Digital Forensics
+
+--------------------------------------------------------
+Skills
+--------------------------------------------------------
+
+🖥️ Operating Systems
+Windows
+Ubuntu
+Kali Linux
+
+🛡️ Security
+Wazuh
+Splunk
+Wireshark
+Suricata
+Sysmon
+YARA
+Velociraptor
+Sigma
+
+💻 Programming
+Python
+Bash
+Java
+C++
+
+☁️ Others
+Git
+GitHub
+Docker
+VirtualBox
+
+--------------------------------------------------------
+Projects
+--------------------------------------------------------
+
+🔥 Wazuh SOC Home Lab
+🔥 Android Malware Detection
+🔥 Nessus Vulnerability Assessment
+🔥 Wireshark Network Analysis
+🔥 Phishing Detection
+
+--------------------------------------------------------
+GitHub Stats
+
+Stats
+Languages
+Contribution Graph
+
+--------------------------------------------------------
+Connect
+
+LinkedIn
+Portfolio
+Email
