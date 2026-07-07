@@ -1,1 +1,27 @@
+natto@soc-lab:~$ sudo systemctl status wazuh-manager
 
+● wazuh-manager.service
+     Active: active (running)
+
+[+] Monitoring Windows 11
+[+] Monitoring Kali Linux
+[+] Monitoring Wazuh Dashboard
+
+natto@soc-lab:~$ nmap 192.168.100.8
+
+Starting Nmap 7.98...
+
+Host is up
+
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+
+natto@soc-lab:~$ tail -f /var/ossec/logs/alerts/alerts.json
+
+Rule: Nmap Scan Detected
+MITRE: Discovery (T1046)
+
+Threat Level: High
+
+█
