@@ -1,6 +1,20 @@
---------------------------------------------------------
-                 Banner (Cybersecurity)
---------------------------------------------------------
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NATTOMR&color=blueviolet" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,kali,vscode,java,bash" />
+</p>
 
 👋 Hi, I'm Natto Muni Chakma
 
