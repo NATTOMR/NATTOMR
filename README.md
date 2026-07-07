@@ -436,59 +436,125 @@ A quick overview of my GitHub activity, programming languages, contribution hist
 - Bash
 - C
 - C++
+<!-- ========================================================= -->
+<!--                    SECURITY STACK                         -->
+<!-- ========================================================= -->
 
-### 🛡 Security
+# 🛡 Security Stack
 
-- Wazuh
-- Splunk
-- Sysmon
-- Wireshark
-- Suricata
-- Velociraptor
+<p align="center">
+Technologies, platforms, and tools I use for building cybersecurity labs and security research.
+</p>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 🛡 SIEM
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="48"/>
+
+</p>
+
+- **Wazuh**
+- **Splunk**
+- **OpenSearch**
+- **Kibana**
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### ⚙ Platforms
+## 🌐 Network Security
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kali" width="48"/>
+
+</p>
+
+- **Wireshark**
+- **Nmap**
+- **Suricata**
+- **TCPDump**
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🔍 Threat Detection
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+
+</p>
+
+- **Sysmon**
+- **Sigma**
+- **YARA**
+- **MITRE ATT&CK**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 💻 Operating Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ubuntu" width="48"/>
+
+</p>
 
 - Ubuntu Server
 - Kali Linux
 - Windows 11
-- Docker
-- VirtualBox
-
-### 🎯 Interests
-
-- SOC Operations
-- Threat Detection
-- Malware Analysis
-- DFIR
-- Detection Engineering
 
 </td>
-</tr>
-</table>
 
----
+<td width="33%" valign="top">
 
-## 📅 2026 Goals
+## 🐳 DevOps
 
-- ✅ Complete Wazuh SOC Home Lab
-- 🔄 Build Detection Rules
-- 🔄 Learn Threat Hunting
-- 🔄 Improve Malware Analysis
-- 🔄 Complete Cloud Security Labs
-- 🎯 Secure a Cybersecurity Internship
+<p align="center">
 
----
-
----
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nodejs,flask"/>
+<img src="https://skillicons.dev/icons?i=docker,git" />
 
 </p>
 
+- Docker
+- Git
+- GitHub
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🐍 Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,java" />
+
+</p>
+
+- Python
+- Bash
+- Java
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 <!-- ========================================================= -->
