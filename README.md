@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="Cybersecurity Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Natto Muni Chakma
 
