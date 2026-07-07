@@ -256,6 +256,132 @@ Personal portfolio website showcasing projects, certifications, technical skills
 
 </p>
 
+<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+A quick overview of my GitHub activity, programming languages, contribution history, and development consistency.
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NATTOMR&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
+> **Note:** This animation will work after we configure a GitHub Action in your repository.
+
+---
+
+## 📌 Development Summary
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Programming
+
+- Python
+- Java
+- Bash
+- C
+- C++
+
+### 🛡 Security
+
+- Wazuh
+- Splunk
+- Sysmon
+- Wireshark
+- Suricata
+- Velociraptor
+
+</td>
+
+<td width="50%">
+
+### ⚙ Platforms
+
+- Ubuntu Server
+- Kali Linux
+- Windows 11
+- Docker
+- VirtualBox
+
+### 🎯 Interests
+
+- SOC Operations
+- Threat Detection
+- Malware Analysis
+- DFIR
+- Detection Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 2026 Goals
+
+- ✅ Complete Wazuh SOC Home Lab
+- 🔄 Build Detection Rules
+- 🔄 Learn Threat Hunting
+- 🔄 Improve Malware Analysis
+- 🔄 Complete Cloud Security Labs
+- 🎯 Secure a Cybersecurity Internship
+
+---
+
 ---
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nodejs,flask"/>
