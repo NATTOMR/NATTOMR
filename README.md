@@ -100,8 +100,4 @@ Cybersecurity Student • SOC Analyst • Blue Team Enthusiast
 
 </p>
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,java,linux,ubuntu,docker,git,github,vscode,nextjs,nodejs,flask"/>
-
-</p>
