@@ -118,20 +118,121 @@ and <strong>Detection Engineering</strong>.
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡 Wazuh SOC Home Lab
+
+<a href="YOUR_REPO_LINK">
+<img src="./assets/wazuh-dashboard.png" width="100%">
+</a>
+
+Enterprise-grade SOC using
+
+- Ubuntu Server
+- Wazuh
+- Windows 11
+- Kali Linux
+
 <p align="center">
-Here are some of the cybersecurity projects I've built to strengthen my practical skills in
-SOC Operations, Malware Analysis, Threat Detection, and Network Security.
+
+<a href="YOUR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+
+</a>
+
 </p>
 
----
+</td>
 
-## 🛡 Wazuh-Based SOC Home Lab
+<td width="50%" valign="top">
+
+## 🤖 Android Malware Detection
+
+<a href="YOUR_REPO_LINK">
+<img src="./assets/malware-project.png" width="100%">
+</a>
+
+Hybrid malware detection using
+
+- Python
+- Androguard
+- XGBoost
 
 <p align="center">
 
-<img src="./assets/wazuh-dashboard.png" width="100%" alt="Wazuh Dashboard"/>
+<a href="YOUR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+
+</a>
 
 </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+<a href="YOUR_REPO_LINK">
+<img src="./assets/portfolio.png" width="100%">
+</a>
+
+Next.js Portfolio
+
+Tailwind CSS
+
+Responsive Design
+
+<p align="center">
+
+<a href="YOUR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📡 Network Analysis
+
+<a href="YOUR_REPO_LINK">
+<img src="./assets/network-analysis.png" width="100%">
+</a>
+
+Network Monitoring
+
+Wireshark
+
+Packet Analysis
+
+<p align="center">
+
+<a href="YOUR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ### 📖 Overview
 
