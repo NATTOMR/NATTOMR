@@ -4,7 +4,23 @@
 
 
 
+# 👋 Hi, I'm Natto Muni Chakma
 
+(Banner)
+
+(Typing Animation)
+
+---
+
+## 💻 Live SOC Terminal
+
+<p align="center">
+  <img src="./assets/terminal.gif" width="850">
+</p>
+
+---
+
+## 🛡 About Me
 
 ██████████████████████████████████
 
