@@ -7,29 +7,29 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Natto Muni Chakma
+  Hi 👋, I'm Natto Muni Chakma
 </h1>
 
 <h3 align="center">
-• SOC Analyst • Blue Team Enthusiast
+  • SOC Analyst • Blue Team Enthusiast • Detection Engineer
 </h3>
 
 <p align="center">
-Building practical cybersecurity projects focused on
-<strong>Threat Detection</strong>,
-<strong>Security Operations (SOC)</strong>,
-<strong>Malware Analysis</strong>,
-and <strong>Detection Engineering</strong>.
+  Building practical cybersecurity projects focused on
+  <strong>Threat Detection</strong>,
+  <strong>Security Operations (SOC)</strong>,
+  <strong>Malware Analysis</strong>,
+  and <strong>Detection Engineering</strong>.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Enterprise+SOC+Labs;Threat+Detection+%26+Incident+Response;Malware+Analysis;Python+%7C+Linux+%7C+Wazuh;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Enterprise+SOC+Labs;Threat+Detection+%26+Incident+Response;Malware+Analysis+%26+Reverse+Engineering;Python+%7C+Linux+%7C+Wazuh+%7C+MITRE+ATT%26CK;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NATTOMR&label=Profile+Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/NATTOMR?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=NATTOMR&label=Profile+Views&color=0e75b6&style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/NATTOMR?label=Followers&style=social" />
 </p>
 
 ---
@@ -47,137 +47,15 @@ Through continuous learning and project-based experience, I aim to strengthen my
 ## 🎯 Current Focus
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Digital%20Forensics-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Detection%20Engineering-2E7D32?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Detection%20Engineering-2E7D32?style=for-the-badge"/>
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                 SOC TECHNOLOGY STACK                      -->
-<!-- ========================================================= -->
-
-# 🛡 SOC Technology Stack
-
-<p align="center">
-
-Building enterprise cybersecurity labs using modern defensive security tools,
-network analysis platforms, and automation technologies.
-
-</p>
-
----
-
-## 🛡 Security Operations Center (SOC)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-Enterprise monitoring, log collection, alert correlation, and threat visibility.
-</p>
-
----
-
-## 🌐 Network Security
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-Network traffic analysis, reconnaissance, IDS, and packet inspection.
-</p>
-
----
-
-## 🔍 Threat Detection
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-Detection engineering, endpoint visibility, and malware detection.
-</p>
-
----
-
-## 💻 Programming & Automation
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,java"/>
-
-</p>
-
-<p align="center">
-Automation scripts, malware analysis tools, and security utilities.
-</p>
-
----
-
-## 🖥 Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker"/>
-
-</p>
-
-<p align="center">
-Enterprise lab environments, virtualization, and containerized applications.
-</p>
-
----
-
-## ⚙ Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,virtualstudio"/>
-
-</p>
-
-<p align="center">
-Version control, documentation, and software development workflows.
-</p>
-
----
-
-
 
 <!-- ========================================================= -->
 <!--                   FEATURED PROJECTS                        -->
@@ -190,53 +68,46 @@ Version control, documentation, and software development workflows.
 
 <td width="50%" valign="top">
 
-## 🛡 Wazuh SOC Home Lab
-
-<a href="https://github.com/NATTOMR/NATTOMR/blob/main/assets/wazuh-dashboard01.png">
-<img src="./assets/wazuh-dashboard01.png" width="100%">
-</a>
-
-Enterprise-grade SOC using
-
-- Ubuntu Server
-- Wazuh
-- Windows 11
-- Kali Linux
-
-<p align="center">
+### 🛡 Wazuh SOC Home Lab
 
 <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-
+  <img src="./assets/wazuh-dashboard01.png" width="100%">
 </a>
 
+Enterprise-grade SOC built with:
+
+- **Ubuntu Server** as the core host
+- **Wazuh SIEM** for log management & alerting
+- **Windows 11 & Kali Linux** as endpoints
+- **MITRE ATT&CK** mapped detections
+
+<p align="center">
+  <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 Android Malware Detection(Final Year Project - 2026)
+### 🤖 Android Malware Detector (FYP 2026)
 
 <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-<img src="./assets/malware-project.png" width="100%">
+  <img src="./assets/malware-project.png" width="100%">
 </a>
 
-Hybrid malware detection using
+Hybrid malware detection system using:
 
-- Python
-- Androguard
-- XGBoost
+- **Python** for analysis pipelines
+- **Androguard** for APK static analysis
+- **XGBoost** ML classification model
+- Static + Dynamic hybrid approach
 
 <p align="center">
-
-<a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-
-</a>
-
+  <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 </td>
@@ -247,52 +118,44 @@ Hybrid malware detection using
 
 <td width="50%" valign="top">
 
-## 🌐 Portfolio Website
+### 🌐 Personal Portfolio Website
 
-<a href="YOUR_REPO_LINK">
-<img src="./assets/portfolio.png" width="100%">
+<a href="https://github.com/NATTOMR">
+  <img src="./assets/portfolio.png" width="100%">
 </a>
 
-Next.js Portfolio
+Personal developer portfolio built with:
 
-Tailwind CSS
-
-Responsive Design
+- **Next.js** for SSR & performance
+- **Tailwind CSS** for responsive design
+- Dark-mode first, clean minimal UI
 
 <p align="center">
-
-<a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-
-</a>
-
+  <a href="YOUR_PORTFOLIO_REPO_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📡 Network Analysis
+### 📡 Network Traffic Analysis
 
-<a href="YOUR_REPO_LINK">
-<img src="./assets/network-analysis.png" width="100%">
+<a href="https://github.com/NATTOMR">
+  <img src="./assets/network-analysis.png" width="100%">
 </a>
 
-Network Monitoring
+Network monitoring & forensics using:
 
-Wireshark
-
-Packet Analysis
+- **Wireshark** for packet capture analysis
+- **Suricata** IDS for traffic monitoring
+- **Nmap** for host & port discovery
 
 <p align="center">
-
-<a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-
-</a>
-
+  <a href="YOUR_NETWORK_REPO_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 </td>
@@ -300,6 +163,129 @@ Packet Analysis
 </tr>
 
 </table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    SECURITY STACK                         -->
+<!-- ========================================================= -->
+
+# 🛡 Security & Technical Toolkit
+
+<p align="center">
+  Technologies, platforms, and tools I use for building cybersecurity labs and security research.
+</p>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🛡 SIEM & SOC
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+</p>
+
+- **Wazuh** – SIEM & XDR
+- **Splunk** – Log analysis
+- **OpenSearch** – Search & analytics
+- **Kibana** – Dashboards & visualization
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Network Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
+</p>
+
+- **Wireshark** – Packet analysis
+- **Nmap** – Network reconnaissance
+- **Suricata** – IDS/IPS
+- **TCPDump** – CLI packet capture
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔍 Threat Detection
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
+</p>
+
+- **Sigma** – Detection rules
+- **YARA** – Malware pattern matching
+- **Sysmon** – Endpoint visibility
+- **MITRE ATT&CK** – Threat framework
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🖥 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
+</p>
+
+- **Ubuntu Server** – SOC lab host
+- **Kali Linux** – Pen testing
+- **Windows 11** – Endpoint simulation
+- **Linux CLI** – Scripting & admin
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🐳 DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+- **Docker** – Containerized labs
+- **Git & GitHub** – Version control
+- **VS Code** – Primary IDE
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 Programming & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,java" />
+</p>
+
+- **Python** – Automation & analysis
+- **Bash** – Shell scripting
+- **Java** – Application security
+- **C / C++** – Systems programming
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <!-- ========================================================= -->
 <!--                  GITHUB ANALYTICS                         -->
@@ -308,197 +294,32 @@ Packet Analysis
 # 📊 GitHub Analytics
 
 <p align="center">
-A quick overview of my GitHub activity, programming languages, contribution history, and development consistency.
+  A quick overview of my GitHub activity, programming languages, contribution history, and development consistency.
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+### 🐍 Contribution Snake
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
----
+> **Note:** This animation activates after configuring the GitHub Actions workflow in your repository.
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NATTOMR&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
-> **Note:** This animation will work after we configure a GitHub Action in your repository.
-
----
-
-## 📌 Development Summary
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Programming
-
-- Python
-- Java
-- Bash
-- C
-- C++
-<!-- ========================================================= -->
-<!--                    SECURITY STACK                         -->
-<!-- ========================================================= -->
-
-# 🛡 Security Stack
-
-<p align="center">
-Technologies, platforms, and tools I use for building cybersecurity labs and security research.
-</p>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-## 🛡 SIEM
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" width="48"/>
-
-</p>
-
-- **Wazuh**
-- **Splunk**
-- **OpenSearch**
-- **Kibana**
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🌐 Network Security
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kali" width="48"/>
-
-</p>
-
-- **Wireshark**
-- **Nmap**
-- **Suricata**
-- **TCPDump**
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🔍 Threat Detection
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-
-</p>
-
-- **Sysmon**
-- **Sigma**
-- **YARA**
-- **MITRE ATT&CK**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-## 💻 Operating Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ubuntu" width="48"/>
-
-</p>
-
-- Ubuntu Server
-- Kali Linux
-- Windows 11
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🐳 DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git" />
-
-</p>
-
-- Docker
-- Git
-- GitHub
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🐍 Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,java" />
-
-</p>
-
-- Python
-- Bash
-- Java
-
-</td>
-
-</tr>
-
-</table>
 ---
 
 <!-- ========================================================= -->
@@ -507,17 +328,49 @@ Technologies, platforms, and tools I use for building cybersecurity labs and sec
 
 # 🎓 Certifications
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Ethical%20Hacking-005BAC?style=for-the-badge"/>
+### 🟦 Google
+
+<img src="https://img.shields.io/badge/Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+**Google Cybersecurity Professional Certificate**
+
+Coursera · 2024
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟩 NPTEL
+
+<img src="https://img.shields.io/badge/Ethical%20Hacking-005BAC?style=for-the-badge"/>
+
+**Ethical Hacking**
+
+NPTEL · IIT Kharagpur
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟧 ICCR
 
 <img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=for-the-badge"/>
 
-</p>
+**ICCR Scholarship Recipient**
 
-> **More certifications will be added as I continue learning and expanding my cybersecurity expertise.**
+Government of India
+
+</td>
+
+</tr>
+</table>
+
+> 📌 More certifications will be added as I continue expanding my cybersecurity expertise.
 
 ---
 
@@ -528,37 +381,34 @@ Technologies, platforms, and tools I use for building cybersecurity labs and sec
 
 <td width="33%" align="center">
 
-### 🛡 Blue Team
+### 🛡 Blue Team Operations
 
-Threat Hunting
-
-Detection Engineering
-
-SOC Operations
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔍 Malware
-
-Reverse Engineering
-
-Static Analysis
-
-Dynamic Analysis
+- Threat Hunting
+- Detection Engineering
+- SOC Workflows & Playbooks
+- Incident Response
 
 </td>
 
 <td width="33%" align="center">
 
-### ☁ Cloud
+### 🔬 Malware Research
 
-AWS Security
+- Reverse Engineering
+- Static & Dynamic Analysis
+- Binary Analysis
+- Malware Behavior Profiling
 
-Microsoft Sentinel
+</td>
 
-Cloud SOC
+<td width="33%" align="center">
+
+### ☁ Cloud Security
+
+- AWS Security Fundamentals
+- Microsoft Sentinel
+- Cloud-based SOC Architecture
+- IAM & Cloud Threat Detection
 
 </td>
 
@@ -569,39 +419,40 @@ Cloud SOC
 
 # 🎯 Career Goal
 
-> To become a **Security Operations Center (SOC) Analyst** and **Detection Engineer**, building practical security solutions that improve threat detection, incident response, and cyber defense.
+> To become a **Security Operations Center (SOC) Analyst** and **Detection Engineer**, building practical security solutions that improve threat detection, incident response, and cyber defense capabilities across enterprise environments.
 
 ---
 
-# 🏆 GitHub Highlights
-
-- 🛡️ Wazuh-Based SOC Home Lab
-- 🤖 Hybrid Android Malware Detection System
-- 🌐 Personal Portfolio Website
-- 🔍 Malware Analysis
-- 📊 Threat Detection & Log Analysis
-- 🐍 Python Automation
-- 🖥 Linux System Administration
-
----
-
-# 📅 Roadmap
+# 📅 2026 Roadmap
 
 ```text
 2026
 │
 ├── ✅ Build Wazuh SOC Home Lab
 │
-├── ✅ Complete Android Malware Detection Project
+├── ✅ Complete Android Malware Detection System (FYP)
 │
-├── 🔄 Detection Engineering
+├── 🔄 Detection Engineering & Sigma Rule Writing
 │
-├── 🔄 Threat Hunting
+├── 🔄 Advanced Threat Hunting Techniques
 │
-├── 🔄 Cloud Security
+├── 🔄 Cloud Security (AWS & Microsoft Sentinel)
 │
-└── 🎯 Cybersecurity Internship
+└── 🎯 Land a Cybersecurity Internship / Entry-Level SOC Role
 ```
+
+---
+
+# 🏆 GitHub Highlights
+
+| Project | Description |
+|---|---|
+| 🛡️ Wazuh SOC Home Lab | Enterprise-grade SIEM lab with alert correlation & log analysis |
+| 🤖 Android Malware Detector | Hybrid ML-based APK malware classifier (Final Year Project) |
+| 🔍 Malware Analysis | Static & dynamic analysis case studies |
+| 📊 Threat Detection | Log analysis & detection rule engineering |
+| 🐍 Python Automation | Security automation utilities and scripts |
+| 🖥 Linux Administration | System hardening, monitoring, and scripting |
 
 ---
 
@@ -609,30 +460,28 @@ Cloud SOC
 
 <p align="center">
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/NATTOMR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/natto-muni-chakma-4b19b4259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
-</a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="mailto:nattochakma29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
 
 </p>
 
 ---
 
-## ⭐ Thank you for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories.
+<p align="center">
+  <strong>⭐ Thank you for visiting my profile! If you like my work, consider starring my repositories.</strong>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=80&section=footer"/>
-
-</div>
