@@ -217,9 +217,9 @@ Enterprise-grade SOC using
 
 <td width="50%" valign="top">
 
-## 🤖 Android Malware Detection
+## 🤖 Android Malware Detection(Final Year Project - 2026)
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
 <img src="./assets/malware-project.png" width="100%">
 </a>
 
@@ -231,7 +231,7 @@ Hybrid malware detection using
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
 
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 
