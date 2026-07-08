@@ -317,36 +317,36 @@ Network monitoring & forensics using:
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 <br>
 <b>🟦 Google</b>
 <br><br>
-<img src="https://img.shields.io/badge/Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white"/>
 <br><br>
-<b>Google Cybersecurity Professional Certificate</b>
-<br>
-Coursera · 2024
+<b>Google Cybersecurity</b><br><b>Professional Certificate</b>
+<br><br>
+Coursera &nbsp;·&nbsp; 2024
 <br><br>
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 <br>
 <b>🟩 NPTEL</b>
 <br><br>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-005BAC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Ethical_Hacking-005BAC?style=flat-square"/>
 <br><br>
 <b>Ethical Hacking</b>
-<br>
-NPTEL · IIT Kharagpur
+<br><br>
+NPTEL &nbsp;·&nbsp; IIT Kharagpur
 <br><br>
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 <br>
 <b>🟧 ICCR</b>
 <br><br>
-<img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=flat-square"/>
 <br><br>
 <b>ICCR Scholarship Recipient</b>
-<br>
+<br><br>
 Government of India
 <br><br>
 </td>
@@ -361,38 +361,38 @@ Government of India
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 <br>
-<b>🛡 Blue Team Operations</b>
-<br><br>
-<ul align="left">
+<p align="center"><b>🛡 Blue Team Operations</b></p>
+<ul>
 <li>Threat Hunting</li>
 <li>Detection Engineering</li>
 <li>SOC Workflows &amp; Playbooks</li>
 <li>Incident Response</li>
 </ul>
-</td>
-<td width="33%" align="center">
 <br>
-<b>🔬 Malware Research</b>
-<br><br>
-<ul align="left">
+</td>
+<td width="33%" valign="top">
+<br>
+<p align="center"><b>🔬 Malware Research</b></p>
+<ul>
 <li>Reverse Engineering</li>
 <li>Static &amp; Dynamic Analysis</li>
 <li>Binary Analysis</li>
 <li>Malware Behavior Profiling</li>
 </ul>
-</td>
-<td width="33%" align="center">
 <br>
-<b>☁ Cloud Security</b>
-<br><br>
-<ul align="left">
+</td>
+<td width="33%" valign="top">
+<br>
+<p align="center"><b>☁ Cloud Security</b></p>
+<ul>
 <li>AWS Security Fundamentals</li>
 <li>Microsoft Sentinel</li>
 <li>Cloud-based SOC Architecture</li>
 <li>IAM &amp; Cloud Threat Detection</li>
 </ul>
+<br>
 </td>
 </tr>
 </table>
