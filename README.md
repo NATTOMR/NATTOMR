@@ -138,7 +138,7 @@ Enterprise-grade SOC using
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
 
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 
