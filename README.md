@@ -685,22 +685,10 @@ Cloud SOC
 
 ---
 
-# 💬 Favorite Quote
-
-<p align="center">
-
-> **"Security is not a product, but a continuous process of learning, adapting, and improving."**
-
-</p>
-
----
-
-<div align="center">
-
 ## ⭐ Thank you for visiting my profile!
 
 If you like my work, consider ⭐ starring my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=80&section=footer"/>
 
 </div>
