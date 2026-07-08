@@ -120,7 +120,7 @@ Hybrid malware detection system using:
 
 ### 🌐 Personal Portfolio Website
 
-<a href="https://github.com/NATTOMR">
+<a href="https://natto-porfolio.vercel.app">
   <img src="./assets/portfolio.png" width="100%">
 </a>
 
@@ -131,7 +131,7 @@ Personal developer portfolio built with:
 - Dark-mode first, clean minimal UI
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_REPO_LINK">
+  <a href="https://github.com/NATTOMR/Natto-Porfolio">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -142,7 +142,7 @@ Personal developer portfolio built with:
 
 ### 📡 Network Traffic Analysis
 
-<a href="https://github.com/NATTOMR">
+<a href="https://github.com/NATTOMR/Task-3-Network-Traffic-Analysis-Using-Wireshark">
   <img src="./assets/network-analysis.png" width="100%">
 </a>
 
@@ -153,7 +153,7 @@ Network monitoring & forensics using:
 - **Nmap** for host & port discovery
 
 <p align="center">
-  <a href="YOUR_NETWORK_REPO_LINK">
+  <a href="https://github.com/NATTOMR/Task-3-Network-Traffic-Analysis-Using-Wireshark">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -447,7 +447,7 @@ Government of India
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://natto-porfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
   </a>
 
