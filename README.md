@@ -126,7 +126,7 @@ and <strong>Detection Engineering</strong>.
 ## 🛡 Wazuh SOC Home Lab
 
 <a href="https://github.com/NATTOMR/NATTOMR/blob/main/assets/wazuh-dashboard01.png">
-<img src="./assets/wazuh-dashboard.png" width="100%">
+<img src="./assets/wazuh-dashboard01.png" width="100%">
 </a>
 
 Enterprise-grade SOC using
