@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/banner01.png" height= "30%" width="200%" alt="Cybersecurity Banner">
+  <img src="./assets/banner01.png" height= "1920" width="720" alt="Cybersecurity Banner">
 </p>
 
 <h1 align="center">
@@ -11,7 +11,7 @@ Hi 👋, I'm Natto Muni Chakma
 </h1>
 
 <h3 align="center">
-Cybersecurity Student • SOC Analyst • Blue Team Enthusiast
+• SOC Analyst • Blue Team Enthusiast
 </h3>
 
 <p align="center">
