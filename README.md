@@ -125,7 +125,7 @@ and <strong>Detection Engineering</strong>.
 
 ## 🛡 Wazuh SOC Home Lab
 
-<a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
+<a href="https://github.com/NATTOMR/NATTOMR/blob/main/assets/wazuh-dashboard01.png">
 <img src="./assets/wazuh-dashboard.png" width="100%">
 </a>
 
