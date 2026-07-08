@@ -179,110 +179,95 @@ Network monitoring & forensics using:
 <table>
 <tr>
 
-<td width="33%" valign="top">
-
-### 🛡 SIEM & SOC
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-</p>
-
-- **Wazuh** – SIEM & XDR
-- **Splunk** – Log analysis
-- **OpenSearch** – Search & analytics
-- **Kibana** – Dashboards & visualization
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>🛡 SIEM &amp; SOC</b>
+<br><br>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+<br><br>
+<ul align="left">
+<li><b>Wazuh</b> – SIEM &amp; XDR</li>
+<li><b>Splunk</b> – Log analysis</li>
+<li><b>OpenSearch</b> – Search &amp; analytics</li>
+<li><b>Kibana</b> – Dashboards &amp; visualization</li>
+</ul>
 </td>
-
-<td width="33%" valign="top">
-
-### 🌐 Network Security
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
-</p>
-
-- **Wireshark** – Packet analysis
-- **Nmap** – Network reconnaissance
-- **Suricata** – IDS/IPS
-- **TCPDump** – CLI packet capture
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>🌐 Network Security</b>
+<br><br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
+<br><br>
+<ul align="left">
+<li><b>Wireshark</b> – Packet analysis</li>
+<li><b>Nmap</b> – Network reconnaissance</li>
+<li><b>Suricata</b> – IDS/IPS</li>
+<li><b>TCPDump</b> – CLI packet capture</li>
+</ul>
 </td>
-
-<td width="33%" valign="top">
-
-### 🔍 Threat Detection
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
-</p>
-
-- **Sigma** – Detection rules
-- **YARA** – Malware pattern matching
-- **Sysmon** – Endpoint visibility
-- **MITRE ATT&CK** – Threat framework
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>🔍 Threat Detection</b>
+<br><br>
+<img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
+<br><br>
+<ul align="left">
+<li><b>Sigma</b> – Detection rules</li>
+<li><b>YARA</b> – Malware pattern matching</li>
+<li><b>Sysmon</b> – Endpoint visibility</li>
+<li><b>MITRE ATT&amp;CK</b> – Threat framework</li>
+</ul>
 </td>
-
 </tr>
-
 <tr>
-
-<td width="33%" valign="top">
-
-### 🖥 Operating Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
-</p>
-
-- **Ubuntu Server** – SOC lab host
-- **Kali Linux** – Pen testing
-- **Windows 11** – Endpoint simulation
-- **Linux CLI** – Scripting & admin
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>🖥 Operating Systems</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
+<br><br>
+<ul align="left">
+<li><b>Ubuntu Server</b> – SOC lab host</li>
+<li><b>Kali Linux</b> – Pen testing</li>
+<li><b>Windows 11</b> – Endpoint simulation</li>
+<li><b>Linux CLI</b> – Scripting &amp; admin</li>
+</ul>
 </td>
-
-<td width="33%" valign="top">
-
-### 🐳 DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
-- **Docker** – Containerized labs
-- **Git & GitHub** – Version control
-- **VS Code** – Primary IDE
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>🐳 DevOps &amp; Infrastructure</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<br><br>
+<ul align="left">
+<li><b>Docker</b> – Containerized labs</li>
+<li><b>Git &amp; GitHub</b> – Version control</li>
+<li><b>VS Code</b> – Primary IDE</li>
+</ul>
 </td>
-
-<td width="33%" valign="top">
-
-### 💻 Programming & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,java" />
-</p>
-
-- **Python** – Automation & analysis
-- **Bash** – Shell scripting
-- **Java** – Application security
-- **C / C++** – Systems programming
-
+<td width="33%" valign="top" align="center">
+<br>
+<b>💻 Programming &amp; Automation</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,bash,java" />
+<br><br>
+<ul align="left">
+<li><b>Python</b> – Automation &amp; analysis</li>
+<li><b>Bash</b> – Shell scripting</li>
+<li><b>Java</b> – Application security</li>
+<li><b>C / C++</b> – Systems programming</li>
+</ul>
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -315,10 +300,12 @@ Network monitoring & forensics using:
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
-
-> **Note:** This animation activates after configuring the GitHub Actions workflow in your repository.
 
 ---
 
@@ -330,43 +317,39 @@ Network monitoring & forensics using:
 
 <table>
 <tr>
-
 <td width="33%" align="center">
-
-### 🟦 Google
-
+<br>
+<b>🟦 Google</b>
+<br><br>
 <img src="https://img.shields.io/badge/Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-**Google Cybersecurity Professional Certificate**
-
+<br><br>
+<b>Google Cybersecurity Professional Certificate</b>
+<br>
 Coursera · 2024
-
+<br><br>
 </td>
-
 <td width="33%" align="center">
-
-### 🟩 NPTEL
-
+<br>
+<b>🟩 NPTEL</b>
+<br><br>
 <img src="https://img.shields.io/badge/Ethical%20Hacking-005BAC?style=for-the-badge"/>
-
-**Ethical Hacking**
-
+<br><br>
+<b>Ethical Hacking</b>
+<br>
 NPTEL · IIT Kharagpur
-
+<br><br>
 </td>
-
 <td width="33%" align="center">
-
-### 🟧 ICCR
-
+<br>
+<b>🟧 ICCR</b>
+<br><br>
 <img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=for-the-badge"/>
-
-**ICCR Scholarship Recipient**
-
+<br><br>
+<b>ICCR Scholarship Recipient</b>
+<br>
 Government of India
-
+<br><br>
 </td>
-
 </tr>
 </table>
 
@@ -378,40 +361,39 @@ Government of India
 
 <table>
 <tr>
-
 <td width="33%" align="center">
-
-### 🛡 Blue Team Operations
-
-- Threat Hunting
-- Detection Engineering
-- SOC Workflows & Playbooks
-- Incident Response
-
+<br>
+<b>🛡 Blue Team Operations</b>
+<br><br>
+<ul align="left">
+<li>Threat Hunting</li>
+<li>Detection Engineering</li>
+<li>SOC Workflows &amp; Playbooks</li>
+<li>Incident Response</li>
+</ul>
 </td>
-
 <td width="33%" align="center">
-
-### 🔬 Malware Research
-
-- Reverse Engineering
-- Static & Dynamic Analysis
-- Binary Analysis
-- Malware Behavior Profiling
-
+<br>
+<b>🔬 Malware Research</b>
+<br><br>
+<ul align="left">
+<li>Reverse Engineering</li>
+<li>Static &amp; Dynamic Analysis</li>
+<li>Binary Analysis</li>
+<li>Malware Behavior Profiling</li>
+</ul>
 </td>
-
 <td width="33%" align="center">
-
-### ☁ Cloud Security
-
-- AWS Security Fundamentals
-- Microsoft Sentinel
-- Cloud-based SOC Architecture
-- IAM & Cloud Threat Detection
-
+<br>
+<b>☁ Cloud Security</b>
+<br><br>
+<ul align="left">
+<li>AWS Security Fundamentals</li>
+<li>Microsoft Sentinel</li>
+<li>Cloud-based SOC Architecture</li>
+<li>IAM &amp; Cloud Threat Detection</li>
+</ul>
 </td>
-
 </tr>
 </table>
 
