@@ -361,37 +361,34 @@ Government of India
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
-<p align="center"><b>🛡 Blue Team Operations</b></p>
-<ul>
-<li>Threat Hunting</li>
-<li>Detection Engineering</li>
-<li>SOC Workflows &amp; Playbooks</li>
-<li>Incident Response</li>
-</ul>
-<br>
-</td>
-<td width="33%" valign="top">
-<br>
-<p align="center"><b>🔬 Malware Research</b></p>
-<ul>
-<li>Reverse Engineering</li>
-<li>Static &amp; Dynamic Analysis</li>
-<li>Binary Analysis</li>
-<li>Malware Behavior Profiling</li>
-</ul>
+<b>🛡 Blue Team Operations</b>
+<br><br>
+<p>Threat Hunting</p>
+<p>Detection Engineering</p>
+<p>SOC Workflows &amp; Playbooks</p>
+<p>Incident Response</p>
 <br>
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
-<p align="center"><b>☁ Cloud Security</b></p>
-<ul>
-<li>AWS Security Fundamentals</li>
-<li>Microsoft Sentinel</li>
-<li>Cloud-based SOC Architecture</li>
-<li>IAM &amp; Cloud Threat Detection</li>
-</ul>
+<b>🔬 Malware Research</b>
+<br><br>
+<p>Reverse Engineering</p>
+<p>Static &amp; Dynamic Analysis</p>
+<p>Binary Analysis</p>
+<p>Malware Behavior Profiling</p>
+<br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<b>☁ Cloud Security</b>
+<br><br>
+<p>AWS Security Fundamentals</p>
+<p>Microsoft Sentinel</p>
+<p>Cloud-based SOC Architecture</p>
+<p>IAM &amp; Cloud Threat Detection</p>
 <br>
 </td>
 </tr>
