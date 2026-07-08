@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/banner01.png" width="100%" alt="Cybersecurity Banner">
+  <img src="./assets/banner01.png" width="50%" alt="Cybersecurity Banner">
 </p>
 
 <h1 align="center">
