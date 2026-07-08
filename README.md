@@ -36,33 +36,11 @@ and <strong>Detection Engineering</strong>.
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+I am a final-year **Computer Science and Engineering** student passionate about building practical cybersecurity solutions through hands-on learning and real-world projects.
 
-🎓 **Final Year B.Tech CSE Student**
+My work focuses on **Security Operations Center (SOC)**, **Threat Detection**, **Malware Analysis**, **Network Security**, and **Detection Engineering**. I enjoy creating enterprise-style security labs, investigating attacks, analyzing security events, and developing defensive solutions using modern cybersecurity tools.
 
-🏆 **ICCR Scholar**
-
-🛡 **SOC Home Lab Builder**
-
-🔍 **Blue Team Enthusiast**
-
-</td>
-
-<td width="50%">
-
-🐍 **Python Developer**
-
-🐧 **Linux Enthusiast**
-
-📊 **SIEM & Threat Detection**
-
-⚡ **Always Learning**
-
-</td>
-</tr>
-</table>
+Through continuous learning and project-based experience, I aim to strengthen my expertise in defensive security and contribute to building more secure digital environments.
 
 ---
 
@@ -86,29 +64,118 @@ and <strong>Detection Engineering</strong>.
 
 ---
 
-## 💻 Programming & Development
+<!-- ========================================================= -->
+<!--                 SOC TECHNOLOGY STACK                      -->
+<!-- ========================================================= -->
+
+# 🛡 SOC Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,java,c,cpp"/>
+Building enterprise cybersecurity labs using modern defensive security tools,
+network analysis platforms, and automation technologies.
 
 </p>
 
 ---
 
-## 🖥 Operating Systems
+## 🛡 Security Operations Center (SOC)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+Enterprise monitoring, log collection, alert correlation, and threat visibility.
 </p>
 
 ---
 
-## 🛠 Development Tools
+## 🌐 Network Security
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+Network traffic analysis, reconnaissance, IDS, and packet inspection.
+</p>
+
+---
+
+## 🔍 Threat Detection
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+Detection engineering, endpoint visibility, and malware detection.
+</p>
+
+---
+
+## 💻 Programming & Automation
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,java"/>
+
+</p>
+
+<p align="center">
+Automation scripts, malware analysis tools, and security utilities.
+</p>
+
+---
+
+## 🖥 Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker"/>
+
+</p>
+
+<p align="center">
+Enterprise lab environments, virtualization, and containerized applications.
+</p>
+
+---
+
+## ⚙ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,virtualstudio"/>
+
+</p>
+
+<p align="center">
+Version control, documentation, and software development workflows.
+</p>
+
+---
 
 
 
