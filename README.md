@@ -346,12 +346,6 @@ Designed and implemented a complete Security Operations Center (SOC) home lab us
 
 ## 🤖 Hybrid Android Malware Detection System
 
-<p align="center">
-
-<img src="./assets/malware-project.png" width="100%"/>
-
-</p>
-
 ### 📖 Overview
 
 Developed a hybrid Android malware detection system combining reverse engineering techniques with machine learning for malware classification.
