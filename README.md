@@ -307,8 +307,8 @@ SOC monitoring lab simulating auth exploits featuring:
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <details>
