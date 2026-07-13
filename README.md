@@ -50,6 +50,11 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>🎯 Executive Objective</strong><br>
+  Aspiring <b>Security Operations Center (SOC) Analyst</b> and <b>Detection Engineer</b> dedicated to building enterprise-grade security environments, hardening defensive postures, and developing high-fidelity alert detection rules to safeguard critical digital assets.
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -92,12 +97,12 @@ Through continuous learning and project-based experience, I aim to strengthen my
   <img src="./assets/wazuh-dashboard01.png" width="100%">
 </a>
 
-Enterprise-grade SOC built with:
+Enterprise-grade threat detection environment featuring:
 
-- **Ubuntu Server** as the core host
-- **Wazuh SIEM** for log management & alerting
-- **Windows 11 & Kali Linux** as endpoints
-- **MITRE ATT&CK** mapped detections
+- **Virtualized Lab** built with Ubuntu Server and custom client networks
+- **Wazuh SIEM/XDR** deployment for log management & alerting
+- **Active Response** trigger configuration to block telemetry threats
+- **MITRE ATT&CK** mapping of high-fidelity threat detection rules
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
@@ -115,12 +120,12 @@ Enterprise-grade SOC built with:
   <img src="./assets/malware-project.png" width="100%">
 </a>
 
-Hybrid malware detection system using:
+Machine-learning-driven mobile security system featuring:
 
-- **Python** for analysis pipelines
-- **Androguard** for APK static analysis
-- **XGBoost** ML classification model
-- Static + Dynamic hybrid approach
+- **Static Analysis pipeline** using Androguard to parse APK metadata
+- **Feature Extraction** from dangerous permissions & API calls
+- **XGBoost ML Classification Model** to predict malicious samples
+- **Hybrid Sandbox Design** combining static traits & dynamic telemetry
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
@@ -142,11 +147,11 @@ Hybrid malware detection system using:
   <img src="./assets/portfolio.png" width="100%">
 </a>
 
-Personal developer portfolio built with:
+Responsive personal developer portfolio built with:
 
-- **Next.js** for SSR & performance
-- **Tailwind CSS** for responsive design
-- Dark-mode first, clean minimal UI
+- **Next.js & React** for performance & Server-Side Rendering
+- **Tailwind CSS** for responsive, mobile-first design layout
+- **Modern UI Components** featuring clean dark-theme aesthetic
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Natto-Porfolio">
@@ -164,12 +169,12 @@ Personal developer portfolio built with:
   <img src="./assets/dashboard-2.png" width="100%">
 </a>
 
-SOC detection lab featuring:
+SOC monitoring lab simulating auth exploits featuring:
 
-- **Splunk Enterprise SIEM** for log analysis
-- **Ubuntu Victim VM** authentication monitoring
-- **Kali Linux Attacker VM** login brute-forcing
-- Custom dashboards & log detection analytics
+- **Splunk Enterprise** for log collection and event correlation
+- **Kali Linux Attacker VM** executing brute-force dictionary attempts
+- **Ubuntu Victim VM** forwarding system auth logs (`/var/log/auth.log`)
+- **Custom Security Dashboards** visualizing attack trends and geo-IPs
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
@@ -306,13 +311,15 @@ SOC detection lab featuring:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
-</p>
+<details>
+  <summary>📊 <b>View Advanced Git Metrics (Streak & Activity Graph)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
+    <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
+  </p>
+</details>
 
 ---
 
@@ -421,44 +428,26 @@ Government of India
 
 ---
 
-# 🎯 Career Goal
+# 📅 2026 Roadmap & Milestones
 
-> To become a **Security Operations Center (SOC) Analyst** and **Detection Engineer**, building practical security solutions that improve threat detection, incident response, and cyber defense capabilities across enterprise environments.
-
----
-
-# 📅 2026 Roadmap
-
-```text
-2026
-│
-├── ✅ Build Wazuh SOC Home Lab
-│
-├── ✅ Complete Android Malware Detection System (FYP)
-│
-├── 🔄 Detection Engineering & Sigma Rule Writing
-│
-├── 🔄 Advanced Threat Hunting Techniques
-│
-├── 🔄 Cloud Security (AWS & Microsoft Sentinel)
-│
-└── 🎯 Land a Cybersecurity Internship / Entry-Level SOC Role
-```
+*   ✅ **Wazuh SOC Home Lab** — Implemented SIEM server, client log monitoring, and active response rule triggers.
+*   ✅ **Android Malware Classifier** — Engineered static analysis parser and machine learning classification pipeline.
+*   ⚡ **Detection Engineering** — _In Progress:_ Writing custom Sigma rules and Snort/Suricata signatures for common network/system exploits.
+*   ⚡ **Threat Hunting** — _In Progress:_ Analyzing artifact behavior using Sysmon logs, Event Viewer, and memory dumps.
+*   🔵 **Cloud Security Lab** — _Upcoming:_ Simulating and detecting attacks on AWS infrastructure using Microsoft Sentinel SIEM.
+*   🎯 **Entry-Level SOC Role** — _Target:_ Secure an internship or associate SOC Analyst position to contribute to defensive security.
 
 ---
 
-# 🏆 GitHub Highlights
+# ⚡ Core Competencies
 
-| Project | Description |
-|---|---|
-| 🛡️ Wazuh SOC Home Lab | Enterprise-grade SIEM lab with alert correlation & log analysis |
-| 🤖 Android Malware Detector | Hybrid ML-based APK malware classifier (Final Year Project) |
-| 🔍 Malware Analysis | Static & dynamic analysis case studies |
-| 📊 Threat Detection | Log analysis & detection rule engineering |
-| 🐍 Python Automation | Security automation utilities and scripts |
-| 🖥 Linux Administration | System hardening, monitoring, and scripting |
+*   🛡️ **SIEM & Monitoring** — Log aggregation, rule customisation, dashboard creation (Wazuh, Splunk).
+*   🔍 **Threat Analysis & Detection** — Sigma rule mapping, MITRE ATT&CK mapping, endpoint visibility.
+*   🌐 **Network Security** — Traffic capture, packet analysis, Intrusion Detection Systems (Wireshark, Suricata).
+*   🔬 **Malware Analysis** — Static APK unpacking, code pattern identification, ML behavior models.
+*   🖥️ **Systems Administration** — Linux terminal operations, bash automation, Windows server basic configuration.
 
-
+---
 
 <p align="center">
   <strong>⭐ Thank you for visiting my profile! If you like my work, consider starring my repositories.</strong>
