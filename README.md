@@ -32,6 +32,24 @@
   <img src="https://img.shields.io/github/followers/NATTOMR?label=Followers&style=social" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/NATTOMR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/natto-muni-chakma-4b19b4259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="https://natto-porfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nattochakma29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -440,31 +458,7 @@ Government of India
 | 🐍 Python Automation | Security automation utilities and scripts |
 | 🖥 Linux Administration | System hardening, monitoring, and scripting |
 
----
 
-# 🤝 Let's Connect
-
-<p align="center">
-
-  <a href="https://github.com/NATTOMR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/natto-muni-chakma-4b19b4259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="https://natto-porfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
-  </a>
-
-  <a href="mailto:nattochakma29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-
-</p>
-
----
 
 <p align="center">
   <strong>⭐ Thank you for visiting my profile! If you like my work, consider starring my repositories.</strong>
