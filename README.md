@@ -94,7 +94,7 @@ Through continuous learning and project-based experience, I aim to strengthen my
 ### 🛡 Wazuh SOC Home Lab
 
 <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-  <img src="./assets/wazuh-dashboard01.png" width="100%">
+  <img src="./assets/wazuh-dashboard.png" width="100%">
 </a>
 
 Enterprise-grade threat detection environment featuring:
