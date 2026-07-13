@@ -322,9 +322,11 @@ SOC detection lab featuring:
 <br>
 <b>🟦 Google</b>
 <br><br>
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<a href="https://www.credly.com/badges/de63a840-00cf-42e6-a30b-469a51941bd4/linked_in_profile">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</a>
 <br><br>
-<b>Google Cybersecurity</b><br><b>Professional Certificate</b>
+<b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">Google Cybersecurity</a></b><br><b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">Professional Certificate</a></b>
 <br><br>
 Coursera &nbsp;·&nbsp; 2024
 <br><br>
@@ -333,9 +335,11 @@ Coursera &nbsp;·&nbsp; 2024
 <br>
 <b>🟩 NPTEL</b>
 <br><br>
-<img src="https://img.shields.io/badge/NPTEL-Ethical_Hacking-005BAC?style=flat-square"/>
+<a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S97240201010675582.pdf">
+  <img src="https://img.shields.io/badge/NPTEL-Ethical_Hacking-005BAC?style=flat-square"/>
+</a>
 <br><br>
-<b>Ethical Hacking</b>
+<b><a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S97240201010675582.pdf">Ethical Hacking</a></b>
 <br><br>
 NPTEL &nbsp;·&nbsp; IIT Kharagpur
 <br><br>
@@ -344,9 +348,11 @@ NPTEL &nbsp;·&nbsp; IIT Kharagpur
 <br>
 <b>🟧 ICCR</b>
 <br><br>
-<img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=flat-square"/>
+<a href="https://a2ascholarships.iccr.gov.in/">
+  <img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=flat-square"/>
+</a>
 <br><br>
-<b>ICCR Scholarship Recipient</b>
+<b><a href="https://a2ascholarships.iccr.gov.in/">ICCR Scholarship Recipient</a></b>
 <br><br>
 Government of India
 <br><br>
