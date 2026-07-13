@@ -140,20 +140,21 @@ Personal developer portfolio built with:
 
 <td width="50%" valign="top">
 
-### 📡 Network Traffic Analysis
+### 🖥️ Linux SSH Attack Monitoring (Splunk SIEM)
 
-<a href="https://github.com/NATTOMR/Task-3-Network-Traffic-Analysis-Using-Wireshark">
-  <img src="./assets/network-analysis.png" width="100%">
+<a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
+  <img src="./assets/dashboard-2.png" width="100%">
 </a>
 
-Network monitoring & forensics using:
+SOC detection lab featuring:
 
-- **Wireshark** for packet capture analysis
-- **Suricata** IDS for traffic monitoring
-- **Nmap** for host & port discovery
+- **Splunk Enterprise SIEM** for log analysis
+- **Ubuntu Victim VM** authentication monitoring
+- **Kali Linux Attacker VM** login brute-forcing
+- Custom dashboards & log detection analytics
 
 <p align="center">
-  <a href="https://github.com/NATTOMR/Task-3-Network-Traffic-Analysis-Using-Wireshark">
+  <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
   </a>
 </p>
