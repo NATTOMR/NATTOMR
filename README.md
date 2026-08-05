@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="https://natto-porfolio.vercel.app">
+  <a href="https://nattomr.github.io/Natto-Porfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
   </a>
   &nbsp;
@@ -143,7 +143,7 @@ Machine-learning-driven mobile security system featuring:
 
 ### 🌐 Personal Portfolio Website
 
-<a href="https://natto-porfolio.vercel.app">
+<a href="https://nattomr.github.io/Natto-Porfolio/">
   <img src="./assets/portfolio.png" width="100%">
 </a>
 
