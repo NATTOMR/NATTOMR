@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Enterprise+SOC+Labs;Threat+Detection+%26+Incident+Response;Malware+Analysis+%26+Reverse+Engineering;Python+%7C+Linux+%7C+Wazuh+%7C+MITRE+ATT%26CK;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Enterprise+SOC+Labs;Threat+Detection+Engineering;Cybersecurity+Innovation" />
 </p>
 
 <p align="center">
@@ -52,7 +52,33 @@
 
 <p align="center">
   <strong>🎯 Executive Objective</strong><br>
-  Aspiring <b>Security Operations Center (SOC) Analyst</b> and <b>Detection Engineer</b> dedicated to building enterprise-grade security environments, hardening defensive postures, and developing high-fidelity alert detection rules to safeguard critical digital assets.
+  Aspiring <b>Security Operations Center (SOC) Analyst</b> and <b>Detection Engineer</b> dedicated to building enterprise-grade security environments, hardening defensive postures, and developing innovative detection strategies to counter emerging cyber threats.
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    TOOLS SECTION                          -->
+<!-- ========================================================= -->
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=nmap&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Suricata-EA4335?style=flat-square&logo=suricata&logoColor=white" width="80" height="80"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sigma-673AB7?style=flat-square&logo=sigma&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/YARA-FF9800?style=flat-square&logo=yara&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat-square&logo=sysmon&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="80" height="80"/>
 </p>
 
 ---
@@ -61,7 +87,7 @@
 
 I am a final-year **Computer Science and Engineering** student passionate about building practical cybersecurity solutions through hands-on learning and real-world projects.
 
-My work focuses on **Security Operations Center (SOC)**, **Threat Detection**, **Malware Analysis**, **Network Security**, and **Detection Engineering**. I enjoy creating enterprise-style security labs, investigating attacks, analyzing security events, and developing defensive solutions using modern cybersecurity tools.
+My work focuses on **Security Operations Center (SOC)**, **Threat Detection**, **Malware Analysis**, **Network Security**, and **Detection Engineering**. I enjoy creating enterprise-style security labs and contributing to the cybersecurity community through practical, reproducible projects.
 
 Through continuous learning and project-based experience, I aim to strengthen my expertise in defensive security and contribute to building more secure digital environments.
 
