@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f5ae4e8b12b?w=1920&h=720&fit=crop" width="1920" height="720" alt="SOC Blue Team Cybersecurity Banner">
+  <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/banner03.png" width="1920" height="720" alt="SOC Blue Team Cybersecurity Banner">
 </p>
 
 <h1 align="center">
