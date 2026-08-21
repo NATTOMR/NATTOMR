@@ -306,10 +306,6 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
