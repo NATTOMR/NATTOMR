@@ -248,12 +248,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
 <br><br>
-<ul align="left">
-<li><b>Wazuh</b> – SIEM &amp; XDR</li>
-<li><b>Splunk</b> – Log analysis</li>
-<li><b>OpenSearch</b> – Search &amp; analytics</li>
-<li><b>Kibana</b> – Dashboards &amp; visualization</li>
-</ul>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
@@ -264,12 +258,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
 <br><br>
-<ul align="left">
-<li><b>Wireshark</b> – Packet analysis</li>
-<li><b>Nmap</b> – Network reconnaissance</li>
-<li><b>Suricata</b> – IDS/IPS</li>
-<li><b>TCPDump</b> – CLI packet capture</li>
-</ul>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
@@ -280,12 +268,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
 <br><br>
-<ul align="left">
-<li><b>Sigma</b> – Detection rules</li>
-<li><b>YARA</b> – Malware pattern matching</li>
-<li><b>Sysmon</b> – Endpoint visibility</li>
-<li><b>MITRE ATT&amp;CK</b> – Threat framework</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -295,12 +277,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <br><br>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
 <br><br>
-<ul align="left">
-<li><b>Ubuntu Server</b> – SOC lab host</li>
-<li><b>Kali Linux</b> – Pen testing</li>
-<li><b>Windows 11</b> – Endpoint simulation</li>
-<li><b>Linux CLI</b> – Scripting &amp; admin</li>
-</ul>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
@@ -308,11 +284,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <br><br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 <br><br>
-<ul align="left">
-<li><b>Docker</b> – Containerized labs</li>
-<li><b>Git &amp; GitHub</b> – Version control</li>
-<li><b>VS Code</b> – Primary IDE</li>
-</ul>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
@@ -320,12 +291,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <br><br>
 <img src="https://skillicons.dev/icons?i=python,bash,java" />
 <br><br>
-<ul align="left">
-<li><b>Python</b> – Automation &amp; analysis</li>
-<li><b>Bash</b> – Shell scripting</li>
-<li><b>Java</b> – Application security</li>
-<li><b>C / C++</b> – Systems programming</li>
-</ul>
 </td>
 </tr>
 </table>
