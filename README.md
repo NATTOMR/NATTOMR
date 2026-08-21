@@ -50,11 +50,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>🎯 Executive Objective</strong><br>
-  Aspiring <b>Security Operations Center (SOC) Analyst</b> and <b>Detection Engineer</b> dedicated to building enterprise-grade security environments, hardening defensive postures, and developing innovative detection strategies to counter emerging cyber threats.
-</p>
-
 ---
 
 <!-- ========================================================= -->
