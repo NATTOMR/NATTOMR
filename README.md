@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1400&color=00FF99&center=true&vCenter=true&width=850&height=70&lines=Don't+hack+me%2C+I'm+new...+😅;Let's+protect+the+world+together+🛡️;Building+Enterprise+SOC+Labs+🚀;Cybersecurity+•+Blue+Team+•+Detection+Engineering" alt="Animated Hero Banner" />
+  <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/animated-banner.svg" width="100%" alt="Cybersecurity Animated Hero Banner" />
 </p>
 
 <h1 align="center">
