@@ -95,11 +95,11 @@
 
 ## 🚀 About Me
 
-I am a final-year **Computer Science and Engineering** student passionate about building practical cybersecurity solutions through hands-on learning and real-world projects.
+I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybersecurity & SOC Analyst** focused on defensive security, SIEM log analysis, and incident response.
 
-My work focuses on **Security Operations Center (SOC)**, **Threat Detection**, **Malware Analysis**, **Network Security**, and **Detection Engineering**. I enjoy creating enterprise-style security labs and contributing to the cybersecurity community through practical, reproducible projects.
-
-Through continuous learning and project-based experience, I aim to strengthen my expertise in defensive security and contribute to building more secure digital environments.
+* 🏆 **What I Have Done** — Earned Google Cybersecurity & NPTEL Elite Ethical Hacking (60%, IIT Kharagpur) credentials. Awarded Best Performer at Elevate Labs (Skill India) and built multi-OS Wazuh & Sysmon detection labs.
+* ⚡ **What I Am Doing Currently** — Practicing alert triage and incident response on TryHackMe, Hack The Box, and LetsDefend. Writing Python security automation scripts and developing Sigma & YARA detection rules.
+* 🎯 **What Is My Future Goal** — Targeting Tier-1/Tier-2 SOC Analyst and Security Engineer roles in enterprise defense. Preparing for CompTIA Security+, CySA+, and BTL1 certifications to advance in detection engineering.
 
 ---
 
