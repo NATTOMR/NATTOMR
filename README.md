@@ -309,6 +309,8 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
+<h3 align="center">🐍 Contribution Graph Animation</h3>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg">
