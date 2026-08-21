@@ -296,33 +296,28 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 # 📊 GitHub Analytics
 
 <p align="center">
-  A quick overview of my GitHub activity, programming languages, contribution history, and development consistency.
+  A comprehensive overview of my open-source contributions, language distribution, and daily development activity.
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
-<details>
-  <summary>📊 <b>View Advanced Git Metrics (Streak & Activity Graph)</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true"/>
-    <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true"/>
-  </p>
-</details>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NATTOMR&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
 
