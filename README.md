@@ -270,29 +270,6 @@ SOC monitoring lab simulating auth exploits featuring:
 <br><br>
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🖥 Operating Systems</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🐳 DevOps &amp; Infrastructure</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>💻 Programming &amp; Automation</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,bash,java" />
-<br><br>
-</td>
-</tr>
 </table>
 
 ---
