@@ -92,23 +92,23 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <p align="center">
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge&logo=sigma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=yara&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge&logo=sysmon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TheHive-1E88E5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MISP-2B3E50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-333333?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,docker,git,github,vscode,python,bash,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postman,react,ts,tailwind,vite,html,css,linux,ubuntu,windows,kali,docker,git,github,githubactions,vscode" />
 </p>
 
 ---
