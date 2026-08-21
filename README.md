@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/banner03.png" width="1920" height="720" alt="SOC Blue Team Cybersecurity Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1400&color=00FF99&center=true&vCenter=true&width=850&height=70&lines=Don't+hack+me%2C+I'm+new...+😅;Let's+protect+the+world+together+🛡️;Building+Enterprise+SOC+Labs+🚀;Cybersecurity+•+Blue+Team+•+Detection+Engineering" alt="Animated Hero Banner" />
 </p>
 
 <h1 align="center">
@@ -20,10 +20,6 @@
   <strong>Security Operations (SOC)</strong>,
   <strong>Malware Analysis</strong>,
   and <strong>Detection Engineering</strong>.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Enterprise+SOC+Labs;Threat+Detection+Engineering;Cybersecurity+Innovation" />
 </p>
 
 <p align="center">
