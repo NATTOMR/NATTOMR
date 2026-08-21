@@ -90,67 +90,26 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 # 🛡️ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
 <p align="center">
-  Technologies, platforms, and tools I use for building cybersecurity labs and security research.
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge&logo=sigma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=yara&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge&logo=sysmon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
+</p>
 
-<td width="33%" valign="top" align="center">
-<br>
-<b>🛡️ 𝗦𝗜𝗘𝗠 &amp; 𝗦𝗢𝗖</b>
-<br><br>
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🌐 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
-<br><br>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/>
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🔍 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b>
-<br><br>
-<img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge"/>
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🖥️ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>🐳 𝗗𝗲𝘃𝗢𝗽𝘀 &amp; 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-<br><br>
-</td>
-<td width="33%" valign="top" align="center">
-<br>
-<b>💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 &amp; 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,bash,java" />
-<br><br>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,docker,git,github,vscode,python,bash,java,c,cpp" />
+</p>
 
 ---
 
