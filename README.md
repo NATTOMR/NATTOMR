@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Natto Muni Chakma
+  𝗛𝗶, 𝗜'𝗺 𝗡𝗮𝘁𝘁𝗼 𝗠𝘂𝗻𝗶 𝗖𝗵𝗮𝗸𝗺𝗮
 </h1>
 
 <h3 align="center">
-  • SOC Analyst • Blue Team Enthusiast • Detection Engineer
+  • 𝗦𝗢𝗖 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 • 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 • 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿
 </h3>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybersecurity & SOC Analyst** focused on defensive security, SIEM log analysis, and incident response.
 
@@ -58,7 +58,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 ---
 
-## 🎯 Current Focus
+## 🎯 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
 
 <p align="left">
   <img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=for-the-badge"/>
@@ -75,7 +75,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <!--                   FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
-# 🚀 Featured Projects
+# 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <div align="left">
   <img src="https://img.shields.io/badge/SIEM%20%26%20Incident%20Response-005571?style=flat-square" />
-  <h3>🛡️ Wazuh SOC Home Lab</h3>
+  <h3>🛡️ 𝗪𝗮𝘇𝘂𝗵 𝗦𝗢𝗖 𝗛𝗼𝗺𝗲 𝗟𝗮𝗯</h3>
 </div>
 
 <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
@@ -114,7 +114,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <div align="left">
   <img src="https://img.shields.io/badge/ML%20%26%20Reverse%20Engineering-8E44AD?style=flat-square" />
-  <h3>🤖 Android Malware Detector</h3>
+  <h3>🤖 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿</h3>
 </div>
 
 <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
@@ -148,7 +148,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <div align="left">
   <img src="https://img.shields.io/badge/Web%20%26%20UI%20Engineering-007ACC?style=flat-square" />
-  <h3>🌐 Personal Portfolio Website</h3>
+  <h3>🌐 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗪𝗲𝗯𝘀𝗶𝘁𝗲</h3>
 </div>
 
 <a href="https://nattomr.github.io/Natto-Porfolio/">
@@ -182,7 +182,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <div align="left">
   <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Hunting-2E7D32?style=flat-square" />
-  <h3>🖥️ Linux SSH Attack Monitoring</h3>
+  <h3>🖥️ 𝗟𝗶𝗻𝘂𝘅 𝗦𝗦𝗛 𝗔𝘁𝘁𝗮𝗰𝗸 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴</h3>
 </div>
 
 <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
@@ -218,7 +218,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <!--                    SECURITY STACK                         -->
 <!-- ========================================================= -->
 
-# 🛡 Security & Technical Toolkit
+# 🛡️ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
 <p align="center">
   Technologies, platforms, and tools I use for building cybersecurity labs and security research.
@@ -229,7 +229,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <td width="33%" valign="top" align="center">
 <br>
-<b>🛡 SIEM &amp; SOC</b>
+<b>🛡️ 𝗦𝗜𝗘𝗠 &amp; 𝗦𝗢𝗖</b>
 <br><br>
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
@@ -239,7 +239,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </td>
 <td width="33%" valign="top" align="center">
 <br>
-<b>🌐 Network Security</b>
+<b>🌐 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
 <br><br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
@@ -249,7 +249,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </td>
 <td width="33%" valign="top" align="center">
 <br>
-<b>🔍 Threat Detection</b>
+<b>🔍 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b>
 <br><br>
 <img src="https://img.shields.io/badge/Sigma-673AB7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge"/>
@@ -261,21 +261,21 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <tr>
 <td width="33%" valign="top" align="center">
 <br>
-<b>🖥 Operating Systems</b>
+<b>🖥️ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
 <br><br>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
-<b>🐳 DevOps &amp; Infrastructure</b>
+<b>🐳 𝗗𝗲𝘃𝗢𝗽𝘀 &amp; 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 <br><br>
 </td>
 <td width="33%" valign="top" align="center">
 <br>
-<b>💻 Programming &amp; Automation</b>
+<b>💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 &amp; 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=python,bash,java" />
 <br><br>
@@ -289,7 +289,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <!--                  GITHUB ANALYTICS                         -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
+# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 <p align="center">
   A comprehensive overview of my open-source contributions, language distribution, and daily development activity.
@@ -305,7 +305,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATTOMR&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-<h3 align="center">🐍 Contribution Graph Animation</h3>
+<h3 align="center">🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗚𝗿𝗮𝗽𝗵 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻</h3>
 
 <p align="center">
   <picture>
@@ -321,7 +321,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <!--           CERTIFICATIONS & LEARNING                       -->
 <!-- ========================================================= -->
 
-# 🎓 Certifications
+# 🎓 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
 <table>
 <tr>
@@ -371,13 +371,13 @@ Government of India
 
 ---
 
-# 📚 Currently Learning
+# 📚 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
-<b>🛡 Blue Team Operations</b>
+<b>🛡️ 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀</b>
 <br><br>
 <p>Threat Hunting</p>
 <p>Detection Engineering</p>
@@ -387,7 +387,7 @@ Government of India
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<b>🔬 Malware Research</b>
+<b>🔬 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵</b>
 <br><br>
 <p>Reverse Engineering</p>
 <p>Static &amp; Dynamic Analysis</p>
@@ -397,7 +397,7 @@ Government of India
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<b>☁ Cloud Security</b>
+<b>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
 <br><br>
 <p>AWS Security Fundamentals</p>
 <p>Microsoft Sentinel</p>
@@ -410,7 +410,7 @@ Government of India
 
 ---
 
-# 📅 2026 Roadmap & Milestones
+# 📅 𝟮𝟬𝟮𝟲 𝗥𝗼𝗮𝗱𝗺𝗮𝗽 & 𝗠𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀
 
 *   ✅ **Wazuh SOC Home Lab** — Implemented SIEM server, client log monitoring, and active response rule triggers.
 *   ✅ **Android Malware Classifier** — Engineered static analysis parser and machine learning classification pipeline.
@@ -421,7 +421,7 @@ Government of India
 
 ---
 
-# ⚡ Core Competencies
+# ⚡ 𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
 
 *   🛡️ **SIEM & Monitoring** — Log aggregation, rule customisation, dashboard creation (Wazuh, Splunk).
 *   🔍 **Threat Analysis & Detection** — Sigma rule mapping, MITRE ATT&CK mapping, endpoint visibility.
