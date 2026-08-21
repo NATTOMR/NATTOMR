@@ -90,25 +90,29 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 # 🛡️ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=yara&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/wazuh/00A4E4" height="40" width="40" alt="Wazuh" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/EA005A" height="40" width="40" alt="Splunk" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftazure/50E6FF" height="40" width="40" alt="Microsoft Sentinel" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" width="40" alt="Wireshark" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nmap/00E5FF" height="40" width="40" alt="Nmap" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" width="40" alt="Burp Suite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/yara/FF4081" height="40" width="40" alt="YARA" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/suricata/EF5B25" height="40" width="40" alt="Suricata" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volatility-8E24AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TheHive-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MISP-E91E63?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" width="40" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" width="40" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" width="40" alt="REST APIs" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" width="40" alt="Postman" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" width="40" alt="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" width="40" alt="Kali Linux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postman,react,ts,tailwind,vite,html,css,linux,ubuntu,windows,kali,docker,git,github,githubactions,vscode" />
 </p>
 
 ---
