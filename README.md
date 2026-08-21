@@ -52,9 +52,9 @@
 
 I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybersecurity & SOC Analyst** focused on defensive security, SIEM log analysis, and incident response.
 
-* 🏆 **What I Have Done** — Earned Google Cybersecurity & NPTEL Elite Ethical Hacking (60%, IIT Kharagpur) credentials. Awarded Best Performer at Elevate Labs (Skill India) and built multi-OS Wazuh & Sysmon detection labs.
-* ⚡ **What I Am Doing Currently** — Practicing alert triage and incident response on TryHackMe, Hack The Box, and LetsDefend. Writing Python security automation scripts and developing Sigma & YARA detection rules.
-* 🎯 **What Is My Future Goal** — Targeting Tier-1/Tier-2 SOC Analyst and Security Engineer roles in enterprise defense. Preparing for CompTIA Security+, CySA+, and BTL1 certifications to advance in detection engineering.
+* 🏆 **𝗪𝗵𝗮𝘁 𝗜 𝗛𝗮𝘃𝗲 𝗗𝗼𝗻𝗲** — Earned Google Cybersecurity & NPTEL Elite Ethical Hacking (60%, IIT Kharagpur) credentials. Awarded Best Performer at Elevate Labs (Skill India) and built multi-OS Wazuh & Sysmon detection labs.
+* ⚡ **𝗪𝗵𝗮𝘁 𝗜 𝗔𝗺 𝗗𝗼𝗶𝗻𝗴 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆** — Practicing alert triage and incident response on TryHackMe, Hack The Box, and LetsDefend. Writing Python security automation scripts and developing Sigma & YARA detection rules.
+* 🎯 **𝗪𝗵𝗮𝘁 𝗜𝘀 𝗠𝘆 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗼𝗮𝗹** — Targeting Tier-1/Tier-2 SOC Analyst and Security Engineer roles in enterprise defense. Preparing for CompTIA Security+, CySA+, and BTL1 certifications to advance in detection engineering.
 
 ---
 
@@ -327,39 +327,39 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
-<b>🟦 Google</b>
+<b>🟦 𝗚𝗼𝗼𝗴𝗹𝗲</b>
 <br><br>
 <a href="https://www.credly.com/badges/de63a840-00cf-42e6-a30b-469a51941bd4/linked_in_profile">
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </a>
 <br><br>
-<b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">Google Cybersecurity</a></b><br><b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">Professional Certificate</a></b>
+<b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆</a></b><br><b><a href="https://coursera.org/share/298cb988a80dd42f09ba5cfa380a54a5">𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲</a></b>
 <br><br>
 Coursera &nbsp;·&nbsp; 2024
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<b>🟩 NPTEL</b>
+<b>🟩 𝗡𝗣𝗧𝗘𝗟</b>
 <br><br>
 <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S97240201010675582.pdf">
   <img src="https://img.shields.io/badge/NPTEL-Ethical_Hacking-005BAC?style=flat-square"/>
 </a>
 <br><br>
-<b><a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S97240201010675582.pdf">Ethical Hacking</a></b>
+<b><a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S97240201010675582.pdf">𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴</a></b>
 <br><br>
 NPTEL &nbsp;·&nbsp; IIT Kharagpur
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<b>🟧 ICCR</b>
+<b>🟧 𝗜𝗖𝗖𝗥</b>
 <br><br>
 <a href="https://a2ascholarships.iccr.gov.in/">
   <img src="https://img.shields.io/badge/ICCR-Scholar-00897B?style=flat-square"/>
 </a>
 <br><br>
-<b><a href="https://a2ascholarships.iccr.gov.in/">ICCR Scholarship Recipient</a></b>
+<b><a href="https://a2ascholarships.iccr.gov.in/">𝗜𝗖𝗖𝗥 𝗦𝗰𝗵𝗼𝗹𝗮𝗿𝘀𝗵𝗶𝗽 𝗥𝗲𝗰𝗶𝗽𝗶𝗲𝗻𝘁</a></b>
 <br><br>
 Government of India
 <br><br>
@@ -379,30 +379,30 @@ Government of India
 <br>
 <b>🛡️ 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀</b>
 <br><br>
-<p>Threat Hunting</p>
-<p>Detection Engineering</p>
-<p>SOC Workflows &amp; Playbooks</p>
-<p>Incident Response</p>
+<p>🎯 <b>𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴</b></p>
+<p>⚡ <b>𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b></p>
+<p>📋 <b>𝗦𝗢𝗖 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 &amp; 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀</b></p>
+<p>🚨 <b>𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
 <br>
 </td>
 <td width="33%" align="center" valign="top">
 <br>
 <b>🔬 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵</b>
 <br><br>
-<p>Reverse Engineering</p>
-<p>Static &amp; Dynamic Analysis</p>
-<p>Binary Analysis</p>
-<p>Malware Behavior Profiling</p>
+<p>🔬 <b>𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b></p>
+<p>🔍 <b>𝗦𝘁𝗮𝘁𝗶𝗰 &amp; 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b></p>
+<p>💻 <b>𝗕𝗶𝗻𝗮𝗿𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b></p>
+<p>🧬 <b>𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴</b></p>
 <br>
 </td>
 <td width="33%" align="center" valign="top">
 <br>
 <b>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
 <br><br>
-<p>AWS Security Fundamentals</p>
-<p>Microsoft Sentinel</p>
-<p>Cloud-based SOC Architecture</p>
-<p>IAM &amp; Cloud Threat Detection</p>
+<p>☁️ <b>𝗔𝗪𝗦 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀</b></p>
+<p>🛡️ <b>𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗻𝘁𝗶𝗻𝗲𝗹</b></p>
+<p>🏗️ <b>𝗖𝗹𝗼𝘂𝗱-𝗯𝗮𝘀𝗲𝗱 𝗦𝗢𝗖 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲</b></p>
+<p>🔑 <b>𝗜𝗔𝗠 &amp; 𝗖𝗹𝗼𝘂𝗱 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b></p>
 <br>
 </td>
 </tr>
@@ -412,27 +412,27 @@ Government of India
 
 # 📅 𝟮𝟬𝟮𝟲 𝗥𝗼𝗮𝗱𝗺𝗮𝗽 & 𝗠𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀
 
-*   ✅ **Wazuh SOC Home Lab** — Implemented SIEM server, client log monitoring, and active response rule triggers.
-*   ✅ **Android Malware Classifier** — Engineered static analysis parser and machine learning classification pipeline.
-*   ⚡ **Detection Engineering** — _In Progress:_ Writing custom Sigma rules and Snort/Suricata signatures for common network/system exploits.
-*   ⚡ **Threat Hunting** — _In Progress:_ Analyzing artifact behavior using Sysmon logs, Event Viewer, and memory dumps.
-*   🔵 **Cloud Security Lab** — _Upcoming:_ Simulating and detecting attacks on AWS infrastructure using Microsoft Sentinel SIEM.
-*   🎯 **Entry-Level SOC Role** — _Target:_ Secure an internship or associate SOC Analyst position to contribute to defensive security.
+*   ✅ **𝗪𝗮𝘇𝘂𝗵 𝗦𝗢𝗖 𝗛𝗼𝗺𝗲 𝗟𝗮𝗯** — Implemented SIEM server, client log monitoring, and active response rule triggers.
+*   ✅ **𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿** — Engineered static analysis parser and machine learning classification pipeline.
+*   ⚡ **𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴** — _In Progress:_ Writing custom Sigma rules and Snort/Suricata signatures for common network/system exploits.
+*   ⚡ **𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴** — _In Progress:_ Analyzing artifact behavior using Sysmon logs, Event Viewer, and memory dumps.
+*   🔵 **𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯** — _Upcoming:_ Simulating and detecting attacks on AWS infrastructure using Microsoft Sentinel SIEM.
+*   🎯 **𝗘𝗻𝘁𝗿𝘆-𝗟𝗲𝘃𝗲𝗹 𝗦𝗢𝗖 𝗥𝗼𝗹𝗲** — _Target:_ Secure an internship or associate SOC Analyst position to contribute to defensive security.
 
 ---
 
 # ⚡ 𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
 
-*   🛡️ **SIEM & Monitoring** — Log aggregation, rule customisation, dashboard creation (Wazuh, Splunk).
-*   🔍 **Threat Analysis & Detection** — Sigma rule mapping, MITRE ATT&CK mapping, endpoint visibility.
-*   🌐 **Network Security** — Traffic capture, packet analysis, Intrusion Detection Systems (Wireshark, Suricata).
-*   🔬 **Malware Analysis** — Static APK unpacking, code pattern identification, ML behavior models.
-*   🖥️ **Systems Administration** — Linux terminal operations, bash automation, Windows server basic configuration.
+*   🛡️ **𝗦𝗜𝗘𝗠 & 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴** — Log aggregation, rule customisation, dashboard creation (Wazuh, Splunk).
+*   🔍 **𝗧𝗵𝗿𝗲𝗮𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻** — Sigma rule mapping, MITRE ATT&CK mapping, endpoint visibility.
+*   🌐 **𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆** — Traffic capture, packet analysis, Intrusion Detection Systems (Wireshark, Suricata).
+*   🔬 **𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀** — Static APK unpacking, code pattern identification, ML behavior models.
+*   🖥️ **𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻** — Linux terminal operations, bash automation, Windows server basic configuration.
 
 ---
 
 <p align="center">
-  <strong>⭐ Thank you for visiting my profile! If you like my work, consider starring my repositories.</strong>
+  <strong>⭐ 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲! 𝗜𝗳 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲 𝗺𝘆 𝘄𝗼𝗿𝗸, 𝗰𝗼𝗻𝘀𝗶𝗱𝗲𝗿 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝗺𝘆 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀.</strong>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=80&section=footer"/>
