@@ -133,13 +133,6 @@ Through continuous learning and project-based experience, I aim to strengthen my
   <img src="./assets/wazuh-dashboard.png" width="100%">
 </a>
 
-Enterprise-grade threat detection environment featuring:
-
-- **Virtualized Lab** built with Ubuntu Server and custom client networks
-- **Wazuh SIEM/XDR** deployment for log management & alerting
-- **Active Response** trigger configuration to block telemetry threats
-- **MITRE ATT&CK** mapping of high-fidelity threat detection rules
-
 <p align="center">
   <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
@@ -155,13 +148,6 @@ Enterprise-grade threat detection environment featuring:
 <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
   <img src="./assets/malware-project.png" width="100%">
 </a>
-
-Machine-learning-driven mobile security system featuring:
-
-- **Static Analysis pipeline** using Androguard to parse APK metadata
-- **Feature Extraction** from dangerous permissions & API calls
-- **XGBoost ML Classification Model** to predict malicious samples
-- **Hybrid Sandbox Design** combining static traits & dynamic telemetry
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
@@ -183,12 +169,6 @@ Machine-learning-driven mobile security system featuring:
   <img src="./assets/portfolio.png" width="100%">
 </a>
 
-Responsive personal developer portfolio built with:
-
-- **Next.js & React** for performance & Server-Side Rendering
-- **Tailwind CSS** for responsive, mobile-first design layout
-- **Modern UI Components** featuring clean dark-theme aesthetic
-
 <p align="center">
   <a href="https://github.com/NATTOMR/Natto-Porfolio">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
@@ -204,13 +184,6 @@ Responsive personal developer portfolio built with:
 <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
   <img src="./assets/dashboard-2.png" width="100%">
 </a>
-
-SOC monitoring lab simulating auth exploits featuring:
-
-- **Splunk Enterprise** for log collection and event correlation
-- **Kali Linux Attacker VM** executing brute-force dictionary attempts
-- **Ubuntu Victim VM** forwarding system auth logs (`/var/log/auth.log`)
-- **Custom Security Dashboards** visualizing attack trends and geo-IPs
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
