@@ -86,15 +86,29 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <td width="50%" valign="top">
 
-### 🛡 Wazuh SOC Home Lab
+<div align="left">
+  <img src="https://img.shields.io/badge/SIEM%20%26%20Incident%20Response-005571?style=flat-square" />
+  <h3>🛡️ Wazuh SOC Home Lab</h3>
+</div>
 
 <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-  <img src="./assets/wazuh-dashboard.png" width="100%">
+  <img src="./assets/wazuh-dashboard.png" width="100%" />
 </a>
+
+<p align="left">
+  End-to-end virtual SOC telemetry environment utilizing <b>Wazuh Manager</b> on Ubuntu Server to monitor Windows 11 endpoint telemetry and Sysmon event logs against simulated MITRE ATT&amp;CK tactics.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -102,15 +116,29 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <td width="50%" valign="top">
 
-### 🤖 Android Malware Detector (FYP 2026)
+<div align="left">
+  <img src="https://img.shields.io/badge/ML%20%26%20Reverse%20Engineering-8E44AD?style=flat-square" />
+  <h3>🤖 Android Malware Detector</h3>
+</div>
 
 <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-  <img src="./assets/malware-project.png" width="100%">
+  <img src="./assets/malware-project.png" width="100%" />
 </a>
+
+<p align="left">
+  Machine-learning-driven mobile security system automating APK static reverse engineering via <b>Androguard</b> and <b>XGBoost</b> / <b>Random Forest</b> classification with &gt;95% benchmark accuracy.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -122,15 +150,33 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
+<div align="left">
+  <img src="https://img.shields.io/badge/Web%20%26%20UI%20Engineering-007ACC?style=flat-square" />
+  <h3>🌐 Personal Portfolio Website</h3>
+</div>
 
 <a href="https://nattomr.github.io/Natto-Porfolio/">
-  <img src="./assets/portfolio.png" width="100%">
+  <img src="./assets/portfolio.png" width="100%" />
 </a>
 
+<p align="left">
+  High-performance interactive cybersecurity developer portfolio featuring dynamic threat telemetry aesthetics, technical laboratory reports, and responsive dark-theme design.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+
 <p align="center">
+  <a href="https://nattomr.github.io/Natto-Porfolio/">
+    <img src="https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  &nbsp;
   <a href="https://github.com/NATTOMR/Natto-Porfolio">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -138,15 +184,29 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <td width="50%" valign="top">
 
-### 🖥️ Linux SSH Attack Monitoring (Splunk SIEM)
+<div align="left">
+  <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Hunting-2E7D32?style=flat-square" />
+  <h3>🖥️ Linux SSH Attack Monitoring</h3>
+</div>
 
 <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
-  <img src="./assets/dashboard-2.png" width="100%">
+  <img src="./assets/dashboard-2.png" width="100%" />
 </a>
+
+<p align="left">
+  Real-time SOC monitoring lab simulating and correlating brute-force authentication attempts from Kali Linux against an Ubuntu victim using <b>Splunk Enterprise</b> and custom geo-IP dashboards.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
