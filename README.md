@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  • 𝗦𝗢𝗖 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 • 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 • 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿
+  𝗦𝗢𝗖 & 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 𝗗𝗲dication in Blue team field
 </h3>
 
 <p align="center">
