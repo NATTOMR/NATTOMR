@@ -175,51 +175,70 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 # 🛡️ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
-<h4 align="center">🛡️ 𝗦𝗜𝗘𝗠 &amp; 𝗦𝗢𝗖 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/TheHive-1E88E5?style=flat&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/MISP-E91E63?style=flat&logoColor=white" height="28" />
-</p>
-
-<h4 align="center">☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=flat&logoColor=white" height="28" />
-</p>
-
-<h4 align="center">🌐 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=flat&logo=nmap&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Suricata-EA4335?style=flat&logo=suricata&logoColor=white" height="28" />
-</p>
-
-<h4 align="center">🎯 𝗪𝗲𝗯 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
-</p>
-
-<h4 align="center">🔍 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 &amp; 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat&logo=sysmon&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/YARA-FF9800?style=flat&logo=yara&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=flat" height="28" />
-</p>
-
-<h4 align="center">🖥️ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" />
-</p>
-
-<h4 align="center">💻 𝗪𝗲𝗯 𝗧𝗼𝗼𝗹𝘀, 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 &amp; 𝗗𝗲𝘃𝗢𝗽𝘀</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode&perline=7" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="28%" valign="middle"><b>🛡️ SIEM &amp; SOC</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+      <img src="https://img.shields.io/badge/TheHive-1E88E5?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/MISP-E91E63?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>☁️ Cloud Security</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🌐 Network Security</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🎯 Web Security</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🔍 Threat Detection &amp; Intel</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=yara&logoColor=white" />
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🖥️ Operating Systems</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>💻 Languages &amp; DevOps</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
