@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#18181B" stroke="#27272A" stroke-width="1.2"/>
+  <g transform="translate(6, 12) scale(0.36)">
+    <defs>
+      <radialGradient id="nmapGrad" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#0F172A"/>
+        <stop offset="40%" stop-color="#0369A1"/>
+        <stop offset="85%" stop-color="#38BDF8"/>
+        <stop offset="100%" stop-color="#0284C7"/>
+      </radialGradient>
+    </defs>
+    <ellipse cx="50" cy="30" rx="36" ry="20" fill="#E0F2FE" fill-opacity="0.9"/>
+    <circle cx="50" cy="30" r="16" fill="url(#nmapGrad)"/>
+    <circle cx="50" cy="30" r="10" stroke="#7DD3FC" stroke-width="1.5" stroke-dasharray="2 2" fill="none"/>
+    <circle cx="50" cy="30" r="5" fill="#0284C7"/>
+    <circle cx="50" cy="30" r="2" fill="#FFFFFF"/>
+    <path d="M4 30 C18 10, 82 10, 96 30 C82 50, 18 50, 4 30 Z" stroke="#0284C7" stroke-width="3" fill="none"/>
+  </g>
+</svg>

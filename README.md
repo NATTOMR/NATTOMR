@@ -179,55 +179,55 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <tr>
     <td width="28%" valign="middle"><b>🛡️ SIEM &amp; SOC</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNMTIgMjJoMTRsMTYgNDYgMTAtMjgtNy0xOGgxNGw4IDI0IDgtMjRoMTRsLTE4IDU4SDU1TDQzIDM4IDMxIDc4SDEyTDIgMjJoMTRsOCAzMiAxMC0zMnoiIGZpbGw9IiNGRkYiLz48Y2lyY2xlIGN4PSI4NiIgY3k9IjcwIiByPSI3LjUiIGZpbGw9IiNGRkYiLz48L3N2Zz4=" />
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-      <img src="https://img.shields.io/badge/TheHive-1E88E5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDRsNyA0djhsLTcgNC03LTRWOGw3LTR6TTIzIDE2bDcgNHY4bC03IDQtNy00di04bDctNHpNOSAxNmw3IDR2OGwtNyA0LTctNHYtOGw3LTR6IiBmaWxsPSIjRkZGIi8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxMiIgcj0iMS41IiBmaWxsPSIjMUU4OEU1Ii8+PGNpcmNsZSBjeD0iMjMiIGN5PSIyNCIgcj0iMS41IiBmaWxsPSIjMUU4OEU1Ii8+PGNpcmNsZSBjeD0iOSIgY3k9IjI0IiByPSIxLjUiIGZpbGw9IiMxRTg4RTUiLz48L3N2Zz4=" />
-      <img src="https://img.shields.io/badge/MISP-E91E63?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNCIgZmlsbD0iI0ZGRiIvPjxjaXJjbGUgY3g9IjciIGN5PSI5IiByPSIyLjUiIGZpbGw9IiNGRkYiLz48Y2lyY2xlIGN4PSIyNSIgY3k9IjkiIHI9IjIuNSIgZmlsbD0iI0ZGRiIvPjxjaXJjbGUgY3g9IjciIGN5PSIyMyIgcj0iMi41IiBmaWxsPSIjRkZGIi8+PGNpcmNsZSBjeD0iMjUiIGN5PSIyMyIgcj0iMi41IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTcgOWw5IDdNMjUgOWwtOSA3TTcgMjNsOS03TTI1IDIzbC05LTciIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wazuh.svg" width="44" height="44" alt="Wazuh" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/splunk.svg" width="44" height="44" alt="Splunk" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/thehive.svg" width="44" height="44" alt="TheHive" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/misp.svg" width="44" height="44" alt="MISP" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>☁️ Cloud Security</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,azure" />
-      <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDIuNUw1IDYuOHY4LjZjMCA3LjQgNC43IDE0LjEgMTEgMTUuNiA2LjMtMS41IDExLTguMiAxMS0xNS42VjYuOEwxNiAyLjV6IiBmaWxsPSIjRkZGIi8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNS41IiByPSI1IiBmaWxsPSIjMDA3OEQ0Ii8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNS41IiByPSIyLjUiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNMTYgNy41djNNMTYgMjAuNXYzTTggMTUuNWgzTTIxIDE1LjVoMyIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+" />
-      <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxNiIgcj0iNyIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNMTkgMTZoMTBNMjUgMTZ2NE0yOCAxNnYzIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+" />
-      <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTEyIDRjLTMgMC01IDMtNSA3czIgNyA1IDcgNS0zIDUtNy0yLTctNS03em04IDEwYy0zIDAtNSAzLTUgN3MyIDcgNSA3IDUtMyA1LTctMi03LTUtN3oiIGZpbGw9IiNGRkYiLz48L3N2Zz4=" />
+      <img src="https://skillicons.dev/icons?i=aws,azure" height="44" alt="AWS &amp; Azure" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sentinel.svg" width="44" height="44" alt="Microsoft Sentinel" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/aws-iam.svg" width="44" height="44" alt="AWS IAM" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/cloudtrail.svg" width="44" height="44" alt="CloudTrail" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🌐 Network Security</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Snort-C62828?style=for-the-badge&logo=snort&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgNjUiPjxlbGxpcHNlIGN4PSI1MCIgY3k9IjMwIiByeD0iMzYiIHJ5PSIyMCIgZmlsbD0iI0ZGRiIgZmlsbC1vcGFjaXR5PSIwLjkiLz48Y2lyY2xlIGN4PSI1MCIgY3k9IjMwIiByPSIxNiIgZmlsbD0iIzAwNDU3QyIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iMzAiIHI9IjUiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNNCAzMCBDMTggMTAsIDgyIDEwLCA5NiAzMCBDODIgNTAsIDE4IDUwLCA0IDMwIFoiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIi8+PC9zdmc+" />
-      <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDNDMTEgMyA4IDcgOCAxM2MwIDQgMS41IDcuNSA0IDEwdjRjMCAxLjEuOSAyIDIgMmg0YzEuMSAwIDItLjkgMi0ydi00YzIuNS0yLjUgNC02IDQtMTAgMC02LTMtMTAtOC0xMHoiIGZpbGw9IiNGRkYiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjE0IiByPSIxLjUiIGZpbGw9IiNFQTQzMzUiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjE0IiByPSIxLjUiIGZpbGw9IiNFQTQzMzUiLz48cGF0aCBkPSJNOSA3TDYgOU0yMyA3bDMgMiIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wireshark.svg" width="44" height="44" alt="Wireshark" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/snort.svg" width="44" height="44" alt="Snort" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/nmap.svg" width="44" height="44" alt="Nmap" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/suricata.svg" width="44" height="44" alt="Suricata" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🎯 Web Security</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=postman" />
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/burpsuite.svg" width="44" height="44" alt="Burp Suite" />
+      <img src="https://skillicons.dev/icons?i=postman" height="44" alt="Postman" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🔍 Threat Detection &amp; Intel</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTMgNS41bDExLjUtMS42djExLjNIM1Y1LjV6bTEzLjItMS45TDI5IDJ2MTMuMkgxNi4yVjMuNnpNMyAxNi44aDExLjV2MTEuM0wzIDI2LjVWMTYuOHptMTMuMiAwSDI5VjMwbC0xMi44LTEuOFYxNi44eiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==" />
-      <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDNsMTEgNi4zNXYxMi43TDE2IDI4LjQgNSAyMi4wNXYtMTIuN0wxNiAzeiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xMCAxMWw2IDYuNXY2LjVNMjIgMTFsLTYgNi41IiBzdHJva2U9IiNGRjk4MDAiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" />
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDJMNCA3djljMCA3LjUgNS4xIDE0LjUgMTIgMTYgNi45LTEuNSAxMi04LjUgMTItMTZWN0wxNiAyeiIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik0xNiA4djE2TTggMTZoMTYiIHN0cm9rZT0iIzdCMUZBMiIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sysmon.svg" width="44" height="44" alt="Sysmon" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/yara.svg" width="44" height="44" alt="YARA" />
+      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/mitre.svg" width="44" height="44" alt="MITRE ATT&amp;CK" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🖥️ Operating Systems</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" />
+      <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" height="44" alt="Operating Systems" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>💻 Web Tools, Languages &amp; DevOps</b></td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode" />
+      <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode" height="44" alt="Tools &amp; Languages" />
     </td>
   </tr>
 </table>
