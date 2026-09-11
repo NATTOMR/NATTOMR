@@ -85,138 +85,44 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <table width="100%">
 <tr>
-<td valign="top">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/SIEM%20%26%20Incident%20Response-005571?style=flat-square" />
-  <h3>🛡️ 𝗪𝗮𝘇𝘂𝗵 𝗦𝗢𝗖 𝗛𝗼𝗺𝗲 𝗟𝗮𝗯</h3>
-</div>
-
-<a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-  <img src="./assets/wazuh-dashboard.png" width="100%" />
-</a>
-
-<p align="left">
-  End-to-end virtual SOC telemetry environment utilizing <b>Wazuh Manager</b> on Ubuntu Server to monitor Windows 11 endpoint telemetry and Sysmon event logs against simulated MITRE ATT&amp;CK tactics.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="24"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
+<td>
+<h3>🛡️ Wazuh SOC Home Lab</h3>
+<p>End-to-end virtual SOC telemetry environment utilizing <b>Wazuh Manager</b> on Ubuntu Server to monitor Windows 11 endpoint telemetry and Sysmon event logs against simulated MITRE ATT&amp;CK tactics.</p>
+<p>🛠️ <b>Tools:</b> <code>Wazuh</code> &nbsp;•&nbsp; <code>Ubuntu Server</code> &nbsp;•&nbsp; <code>Sysmon</code> &nbsp;•&nbsp; <code>Kali Linux</code> &nbsp;•&nbsp; <code>Windows 11</code> &nbsp;•&nbsp; <code>MITRE ATT&amp;CK</code></p>
+<p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td valign="top">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Hunting-2E7D32?style=flat-square" />
-  <h3>🖥️ 𝗦𝗽𝗹𝘂𝗻𝗸 𝗦𝗢𝗖 &amp; 𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴 𝗟𝗮𝗯</h3>
-</div>
-
-<a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
-  <img src="./assets/dashboard-2.png" width="100%" />
-</a>
-
-<p align="left">
-  Real-time SOC monitoring lab simulating and correlating brute-force authentication attempts from Kali Linux against an Ubuntu victim using <b>Splunk Enterprise</b> and custom geo-IP dashboards.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="24"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
+<td>
+<h3>🖥️ Splunk SOC &amp; Threat Hunting Lab</h3>
+<p>Real-time SOC monitoring lab simulating and correlating brute-force authentication attempts from Kali Linux against an Ubuntu victim using <b>Splunk Enterprise</b> and custom geo-IP dashboards.</p>
+<p>🛠️ <b>Tools:</b> <code>Splunk Enterprise</code> &nbsp;•&nbsp; <code>Kali Linux</code> &nbsp;•&nbsp; <code>Ubuntu Server</code> &nbsp;•&nbsp; <code>Bash Scripting</code> &nbsp;•&nbsp; <code>Geo-IP</code> &nbsp;•&nbsp; <code>Linux SSH</code></p>
+<p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td valign="top">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/ML%20%26%20Reverse%20Engineering-8E44AD?style=flat-square" />
-  <h3>🤖 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿</h3>
-</div>
-
-<a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-  <img src="./assets/malware-project.png" width="100%" />
-</a>
-
-<p align="left">
-  Machine-learning-driven mobile security system automating APK static reverse engineering via <b>Androguard</b> and <b>XGBoost</b> / <b>Random Forest</b> classification with &gt;95% benchmark accuracy.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="24"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
+<td>
+<h3>🤖 Android Malware Classifier</h3>
+<p>Machine-learning-driven mobile security system automating APK static reverse engineering via <b>Androguard</b> and <b>XGBoost</b> / <b>Random Forest</b> classification with &gt;95% benchmark accuracy.</p>
+<p>🛠️ <b>Tools:</b> <code>Python</code> &nbsp;•&nbsp; <code>Androguard</code> &nbsp;•&nbsp; <code>XGBoost</code> &nbsp;•&nbsp; <code>Scikit-Learn</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>Next.js</code></p>
+<p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td valign="top">
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Cloud%20Security%20%26%20SOC-FF9900?style=flat-square" />
-  <h3>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯</h3>
-</div>
-
-<a href="https://github.com/NATTOMR/cloud-security-lab">
-  <img src="./assets/cloud-security-dashboard.png" width="100%" />
-</a>
-
-<p align="left">
-  Hands-on cloud security lab covering AWS, IAM, cloud detection, Microsoft Sentinel, cloud SOC architecture, threat hunting, and incident response.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logoColor=white" height="24"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NATTOMR/cloud-security-lab">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
+<td>
+<h3>☁️ Cloud Security Lab</h3>
+<p>Hands-on cloud security laboratory covering AWS security, IAM policies, cloud detection, Microsoft Sentinel, cloud SOC architecture, threat hunting, and incident response.</p>
+<p>🛠️ <b>Tools:</b> <code>AWS</code> &nbsp;•&nbsp; <code>AWS IAM</code> &nbsp;•&nbsp; <code>AWS CloudTrail</code> &nbsp;•&nbsp; <code>AWS CloudWatch</code> &nbsp;•&nbsp; <code>Microsoft Sentinel</code> &nbsp;•&nbsp; <code>KQL</code></p>
+<p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/cloud-security-lab">github.com/NATTOMR/cloud-security-lab</a></p>
 </td>
 </tr>
 </table>
