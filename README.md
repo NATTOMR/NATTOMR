@@ -65,6 +65,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Digital%20Forensics-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Detection%20Engineering-2E7D32?style=for-the-badge"/>
 </p>
@@ -76,6 +77,44 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <!-- ========================================================= -->
 
 # 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+<p align="center">
+  <code>Endpoint Security</code> → <code>SIEM / SOC</code> → <code>Threat Hunting</code> → <code>Malware Research</code> → <code>Cloud Security</code> → <code>Cloud SOC</code>
+</p>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="100%" valign="top">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Cloud%20Security%20%26%20SOC-FF9900?style=flat-square" />
+  <h3>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯</h3>
+</div>
+
+<p align="left">
+  Hands-on cloud security lab covering AWS, IAM, cloud detection, Microsoft Sentinel, cloud SOC architecture, threat hunting, and incident response.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NATTOMR/cloud-security-lab">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   📌 <strong>𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗽𝗶𝗻𝗻𝗲𝗱 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 𝗮𝗯𝗼𝘃𝗲 𝗳𝗼𝗿 𝗳𝘂𝗹𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻, 𝗹𝗮𝗯 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗱𝗲!</strong>
@@ -108,7 +147,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postman,docker,linux,ubuntu,windows,kali,git,github,githubactions,vscode,bash,c,cpp,react,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postman,docker,linux,ubuntu,windows,kali,git,github,githubactions,vscode,bash,c,cpp,react,ts,tailwind,aws" />
 </p>
 
 ---
@@ -174,9 +213,11 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <b>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
 <br><br>
 <p>☁️ <b>𝗔𝗪𝗦 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀</b></p>
+<p>🔑 <b>𝗖𝗹𝗼𝘂𝗱 𝗜𝗔𝗠 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b></p>
+<p>📊 <b>𝗖𝗹𝗼𝘂𝗱 𝗟𝗼𝗴𝗴𝗶𝗻𝗴 &amp; 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b></p>
 <p>🛡️ <b>𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗻𝘁𝗶𝗻𝗲𝗹</b></p>
-<p>🏗️ <b>𝗖𝗹𝗼𝘂𝗱-𝗯𝗮𝘀𝗲𝗱 𝗦𝗢𝗖 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲</b></p>
-<p>🔑 <b>𝗜𝗔𝗠 &amp; 𝗖𝗹𝗼𝘂𝗱 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b></p>
+<p>🏗️ <b>𝗖𝗹𝗼𝘂𝗱 𝗦𝗢𝗖 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲</b></p>
+<p>⚡ <b>𝗖𝗹𝗼𝘂𝗱 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 &amp; 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
 <br>
 </td>
 </tr>
@@ -190,7 +231,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 *   ✅ **𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿** — Engineered static analysis parser and machine learning classification pipeline.
 *   ⚡ **𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴** — _In Progress:_ Writing custom Sigma rules and Snort/Suricata signatures for common network/system exploits.
 *   ⚡ **𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴** — _In Progress:_ Analyzing artifact behavior using Sysmon logs, Event Viewer, and memory dumps.
-*   🔵 **𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯** — _Upcoming:_ Simulating and detecting attacks on AWS infrastructure using Microsoft Sentinel SIEM.
+*   ⚡ **𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯** — _In Progress:_ Hands-on AWS security, IAM, CloudTrail/CloudWatch logging, and Microsoft Sentinel detection. &nbsp;[<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" valign="middle"/>](https://github.com/NATTOMR/cloud-security-lab)
 *   🎯 **𝗘𝗻𝘁𝗿𝘆-𝗟𝗲𝘃𝗲𝗹 𝗦𝗢𝗖 𝗥𝗼𝗹𝗲** — _Target:_ Secure an internship or associate SOC Analyst position to contribute to defensive security.
 
 ---
@@ -201,6 +242,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 *   🔍 **𝗧𝗵𝗿𝗲𝗮𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻** — Sigma rule mapping, MITRE ATT&CK mapping, endpoint visibility.
 *   🌐 **𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆** — Traffic capture, packet analysis, Intrusion Detection Systems (Wireshark, Suricata).
 *   🔬 **𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀** — Static APK unpacking, code pattern identification, ML behavior models.
+*   ☁️ **𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 (𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗟𝗮𝗯𝘀)** — AWS (IAM, CloudTrail, CloudWatch), Microsoft Sentinel, KQL, cloud threat detection & Cloud SOC architecture.
 *   🖥️ **𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻** — Linux terminal operations, bash automation, Windows server basic configuration.
 
 ---
