@@ -60,7 +60,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 ## 🎯 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=flat" height="28"/>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat" height="28"/>
   <img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=flat" height="28"/>
@@ -79,13 +79,13 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 # 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <p align="center">
-  <code>Endpoint Security</code> → <code>SIEM / SOC</code> → <code>Threat Hunting</code> → <code>Malware Research</code> → <code>Cloud Security</code> → <code>Cloud SOC</code>
+  <code>Endpoint Security</code> ➔ <code>SIEM / SOC</code> ➔ <code>Threat Hunting</code><br/>
+  ➔ <code>Malware Research</code> ➔ <code>Cloud Security</code> ➔ <code>Cloud SOC</code>
 </p>
 
-<table>
+<table width="100%">
 <tr>
-
-<td width="50%" valign="top">
+<td valign="top">
 
 <div align="left">
   <img src="https://img.shields.io/badge/SIEM%20%26%20Incident%20Response-005571?style=flat-square" />
@@ -101,10 +101,10 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="24"/>
 </p>
 
 <p align="center">
@@ -114,8 +114,12 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td valign="top">
 
 <div align="left">
   <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Hunting-2E7D32?style=flat-square" />
@@ -131,10 +135,10 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="24"/>
 </p>
 
 <p align="center">
@@ -144,12 +148,12 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 </td>
-
 </tr>
+</table>
 
+<table width="100%">
 <tr>
-
-<td width="50%" valign="top">
+<td valign="top">
 
 <div align="left">
   <img src="https://img.shields.io/badge/ML%20%26%20Reverse%20Engineering-8E44AD?style=flat-square" />
@@ -165,10 +169,10 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="24"/>
 </p>
 
 <p align="center">
@@ -178,8 +182,12 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td valign="top">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Cloud%20Security%20%26%20SOC-FF9900?style=flat-square" />
@@ -195,12 +203,12 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logoColor=white" height="24"/>
 </p>
 
 <p align="center">
@@ -210,12 +218,11 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 </td>
-
 </tr>
 </table>
 
 <p align="center">
-  ## 📌 <strong>𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗽𝗶𝗻𝗻𝗲𝗱 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 𝗮𝗯𝗼𝘃𝗲 𝗳𝗼𝗿 𝗳𝘂𝗹𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻, 𝗹𝗮𝗯 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗱𝗲!</strong>
+  📌 <strong>𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗽𝗶𝗻𝗻𝗲𝗱 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 𝗮𝗯𝗼𝘃𝗲 𝗳𝗼𝗿 𝗳𝘂𝗹𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻, 𝗹𝗮𝗯 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗱𝗲!</strong>
 </p>
 
 ---
@@ -269,7 +276,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <h4 align="center">💻 𝗪𝗲𝗯 𝗧𝗼𝗼𝗹𝘀, 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 &amp; 𝗗𝗲𝘃𝗢𝗽𝘀</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode&perline=7" />
 </p>
 
 ---
@@ -285,9 +292,11 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NATTOMR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NATTOMR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -308,39 +317,24 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 # 📚 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
-<br>
+<td align="left">
 <b>🛡️ 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀</b>
-<br><br>
-<p>🎯 <b>𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴</b></p>
-<p>⚡ <b>𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b></p>
-<p>📋 <b>𝗦𝗢𝗖 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 &amp; 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀</b></p>
-<p>🚨 <b>𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
-<br>
+<p>🎯 <b>𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴</b> &nbsp;•&nbsp; ⚡ <b>𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b> &nbsp;•&nbsp; 📋 <b>𝗦𝗢𝗖 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 &amp; 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀</b> &nbsp;•&nbsp; 🚨 <b>𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
 </td>
-<td width="33%" align="center" valign="top">
-<br>
+</tr>
+<tr>
+<td align="left">
 <b>🔬 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵</b>
-<br><br>
-<p>🔬 <b>𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b></p>
-<p>🔍 <b>𝗦𝘁𝗮𝘁𝗶𝗰 &amp; 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b></p>
-<p>💻 <b>𝗕𝗶𝗻𝗮𝗿𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b></p>
-<p>🧬 <b>𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴</b></p>
-<br>
+<p>🔬 <b>𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴</b> &nbsp;•&nbsp; 🔍 <b>𝗦𝘁𝗮𝘁𝗶𝗰 &amp; 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b> &nbsp;•&nbsp; 💻 <b>𝗕𝗶𝗻𝗮𝗿𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b> &nbsp;•&nbsp; 🧬 <b>𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴</b></p>
 </td>
-<td width="33%" align="center" valign="top">
-<br>
+</tr>
+<tr>
+<td align="left">
 <b>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b>
-<br><br>
-<p>☁️ <b>𝗔𝗪𝗦 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀</b></p>
-<p>🔑 <b>𝗖𝗹𝗼𝘂𝗱 𝗜𝗔𝗠 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b></p>
-<p>📊 <b>𝗖𝗹𝗼𝘂𝗱 𝗟𝗼𝗴𝗴𝗶𝗻𝗴 &amp; 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b></p>
-<p>🛡️ <b>𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗻𝘁𝗶𝗻𝗲𝗹</b></p>
-<p>🏗️ <b>𝗖𝗹𝗼𝘂𝗱 𝗦𝗢𝗖 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲</b></p>
-<p>⚡ <b>𝗖𝗹𝗼𝘂𝗱 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 &amp; 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
-<br>
+<p>☁️ <b>𝗔𝗪𝗦 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀</b> &nbsp;•&nbsp; 🔑 <b>𝗖𝗹𝗼𝘂𝗱 𝗜𝗔𝗠 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</b> &nbsp;•&nbsp; 📊 <b>𝗖𝗹𝗼𝘂𝗱 𝗟𝗼𝗴𝗴𝗶𝗻𝗴 &amp; 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b><br/>
+🛡️ <b>𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗻𝘁𝗶𝗻𝗲𝗹</b> &nbsp;•&nbsp; 🏗️ <b>𝗖𝗹𝗼𝘂𝗱 𝗦𝗢𝗖 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲</b> &nbsp;•&nbsp; ⚡ <b>𝗖𝗹𝗼𝘂𝗱 𝗧𝗵𝗿𝗲𝗮𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 &amp; 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲</b></p>
 </td>
 </tr>
 </table>
@@ -373,4 +367,4 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <strong>⭐ 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲! 𝗜𝗳 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲 𝗺𝘆 𝘄𝗼𝗿𝗸, 𝗰𝗼𝗻𝘀𝗶𝗱𝗲𝗿 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝗺𝘆 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀.</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=80&section=footer" width="100%"/>
