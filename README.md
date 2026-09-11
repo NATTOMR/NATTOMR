@@ -61,13 +61,13 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 ## 🎯 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital%20Forensics-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Detection%20Engineering-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOC%20Engineering-00C853?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-007ACC?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-FF6F00?style=flat" height="28"/>
+  <img src="https://img.shields.io/badge/Detection%20Engineering-2E7D32?style=flat" height="28"/>
 </p>
 
 ---
@@ -228,38 +228,38 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <h4 align="center">🛡️ 𝗦𝗜𝗘𝗠 &amp; 𝗦𝗢𝗖 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TheHive-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MISP-E91E63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TheHive-1E88E5?style=flat&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MISP-E91E63?style=flat&logoColor=white" height="28" />
 </p>
 
 <h4 align="center">☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=flat&logoColor=white" height="28" />
 </p>
 
 <h4 align="center">🌐 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EA4335?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=flat&logo=nmap&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Suricata-EA4335?style=flat&logo=suricata&logoColor=white" height="28" />
 </p>
 
 <h4 align="center">🎯 𝗪𝗲𝗯 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
 </p>
 
 <h4 align="center">🔍 𝗧𝗵𝗿𝗲𝗮𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 &amp; 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=for-the-badge&logo=sysmon&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARA-FF9800?style=for-the-badge&logo=yara&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat&logo=sysmon&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/YARA-FF9800?style=flat&logo=yara&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-7B1FA2?style=flat" height="28" />
 </p>
 
 <h4 align="center">🖥️ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀</h4>
