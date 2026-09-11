@@ -82,15 +82,113 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
   <code>Endpoint Security</code> → <code>SIEM / SOC</code> → <code>Threat Hunting</code> → <code>Malware Research</code> → <code>Cloud Security</code> → <code>Cloud SOC</code>
 </p>
 
-<table align="center" width="100%">
+<table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/SIEM%20%26%20Incident%20Response-005571?style=flat-square" />
+  <h3>🛡️ 𝗪𝗮𝘇𝘂𝗵 𝗦𝗢𝗖 𝗛𝗼𝗺𝗲 𝗟𝗮𝗯</h3>
+</div>
+
+<a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
+  <img src="./assets/wazuh-dashboard.png" width="100%" />
+</a>
+
+<p align="left">
+  End-to-end virtual SOC telemetry environment utilizing <b>Wazuh Manager</b> on Ubuntu Server to monitor Windows 11 endpoint telemetry and Sysmon event logs against simulated MITRE ATT&amp;CK tactics.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/SOC%20%26%20Threat%20Hunting-2E7D32?style=flat-square" />
+  <h3>🖥️ 𝗦𝗽𝗹𝘂𝗻𝗸 𝗦𝗢𝗖 &amp; 𝗧𝗵𝗿𝗲𝗮𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴 𝗟𝗮𝗯</h3>
+</div>
+
+<a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
+  <img src="./assets/dashboard-2.png" width="100%" />
+</a>
+
+<p align="left">
+  Real-time SOC monitoring lab simulating and correlating brute-force authentication attempts from Kali Linux against an Ubuntu victim using <b>Splunk Enterprise</b> and custom geo-IP dashboards.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/ML%20%26%20Reverse%20Engineering-8E44AD?style=flat-square" />
+  <h3>🤖 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿</h3>
+</div>
+
+<a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
+  <img src="./assets/malware-project.png" width="100%" />
+</a>
+
+<p align="left">
+  Machine-learning-driven mobile security system automating APK static reverse engineering via <b>Androguard</b> and <b>XGBoost</b> / <b>Random Forest</b> classification with &gt;95% benchmark accuracy.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Cloud%20Security%20%26%20SOC-FF9900?style=flat-square" />
   <h3>☁️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗯</h3>
 </div>
+
+<a href="https://github.com/NATTOMR/cloud-security-lab">
+  <img src="./assets/cloud-security-dashboard.png" width="100%" />
+</a>
 
 <p align="left">
   Hands-on cloud security lab covering AWS, IAM, cloud detection, Microsoft Sentinel, cloud SOC architecture, threat hunting, and incident response.
