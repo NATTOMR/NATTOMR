@@ -79,8 +79,12 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 # 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <p align="center">
-  <code>Endpoint Security</code> ➔ <code>SIEM / SOC</code> ➔ <code>Threat Hunting</code><br/>
-  ➔ <code>Malware Research</code> ➔ <code>Cloud Security</code> ➔ <code>Cloud SOC</code>
+  <img src="https://img.shields.io/badge/Endpoint%20Security-00C853?style=flat" height="24"/> ➔
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20SOC-005571?style=flat" height="24"/> ➔
+  <img src="https://img.shields.io/badge/Threat%20Hunting-007ACC?style=flat" height="24"/><br/>
+  ➔ <img src="https://img.shields.io/badge/Malware%20Research-8E44AD?style=flat" height="24"/> ➔
+  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=flat" height="24"/> ➔
+  <img src="https://img.shields.io/badge/Cloud%20SOC-E91E63?style=flat" height="24"/>
 </p>
 
 <table width="100%">
@@ -88,7 +92,15 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <td>
 <h3>🛡️ Wazuh SOC Home Lab</h3>
 <p>End-to-end virtual SOC telemetry environment utilizing <b>Wazuh Manager</b> on Ubuntu Server to monitor Windows 11 endpoint telemetry and Sysmon event logs against simulated MITRE ATT&amp;CK tactics.</p>
-<p>🛠️ <b>Tools:</b> <code>Wazuh</code> &nbsp;•&nbsp; <code>Ubuntu Server</code> &nbsp;•&nbsp; <code>Sysmon</code> &nbsp;•&nbsp; <code>Kali Linux</code> &nbsp;•&nbsp; <code>Windows 11</code> &nbsp;•&nbsp; <code>MITRE ATT&amp;CK</code></p>
+<p>
+  🛠️ <b>Tools:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Sysmon-4CAF50?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows11&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-A6192E?style=flat&logoColor=white" height="22"/>
+</p>
 <p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis">github.com/NATTOMR/Design-and-Implementation-of-a-Wazuh-Based-SOC-Home-Lab-for-Attack-Detection-and-Log-Analysis</a></p>
 </td>
 </tr>
@@ -99,7 +111,15 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <td>
 <h3>🖥️ Splunk SOC &amp; Threat Hunting Lab</h3>
 <p>Real-time SOC monitoring lab simulating and correlating brute-force authentication attempts from Kali Linux against an Ubuntu victim using <b>Splunk Enterprise</b> and custom geo-IP dashboards.</p>
-<p>🛠️ <b>Tools:</b> <code>Splunk Enterprise</code> &nbsp;•&nbsp; <code>Kali Linux</code> &nbsp;•&nbsp; <code>Ubuntu Server</code> &nbsp;•&nbsp; <code>Bash Scripting</code> &nbsp;•&nbsp; <code>Geo-IP</code> &nbsp;•&nbsp; <code>Linux SSH</code></p>
+<p>
+  🛠️ <b>Tools:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Splunk_Enterprise-000000?style=flat&logo=splunk&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Geo--IP-00897B?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Linux_SSH-F05032?style=flat&logoColor=white" height="22"/>
+</p>
 <p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab">github.com/NATTOMR/Linux-SSH-Attack-Monitoring-Splunk-SIEM-Lab</a></p>
 </td>
 </tr>
@@ -110,7 +130,15 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <td>
 <h3>🤖 Android Malware Classifier</h3>
 <p>Machine-learning-driven mobile security system automating APK static reverse engineering via <b>Androguard</b> and <b>XGBoost</b> / <b>Random Forest</b> classification with &gt;95% benchmark accuracy.</p>
-<p>🛠️ <b>Tools:</b> <code>Python</code> &nbsp;•&nbsp; <code>Androguard</code> &nbsp;•&nbsp; <code>XGBoost</code> &nbsp;•&nbsp; <code>Scikit-Learn</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>Next.js</code></p>
+<p>
+  🛠️ <b>Tools:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Androguard-3DDC84?style=flat&logo=android&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="22"/>
+</p>
 <p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-/tree/main">github.com/NATTOMR/Android-Malware-Detector--My-Final-Year-Project-2026-</a></p>
 </td>
 </tr>
@@ -121,7 +149,15 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 <td>
 <h3>☁️ Cloud Security Lab</h3>
 <p>Hands-on cloud security laboratory covering AWS security, IAM policies, cloud detection, Microsoft Sentinel, cloud SOC architecture, threat hunting, and incident response.</p>
-<p>🛠️ <b>Tools:</b> <code>AWS</code> &nbsp;•&nbsp; <code>AWS IAM</code> &nbsp;•&nbsp; <code>AWS CloudTrail</code> &nbsp;•&nbsp; <code>AWS CloudWatch</code> &nbsp;•&nbsp; <code>Microsoft Sentinel</code> &nbsp;•&nbsp; <code>KQL</code></p>
+<p>
+  🛠️ <b>Tools:</b>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logoColor=white" height="22"/>
+</p>
 <p>🔗 <b>Repository:</b> <a href="https://github.com/NATTOMR/cloud-security-lab">github.com/NATTOMR/cloud-security-lab</a></p>
 </td>
 </tr>
