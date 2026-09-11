@@ -177,57 +177,104 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 <table width="100%">
   <tr>
-    <td width="28%" valign="middle"><b>🛡️ SIEM &amp; SOC</b></td>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wazuh.svg" width="44" height="44" alt="Wazuh" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/splunk.svg" width="44" height="44" alt="Splunk" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/thehive.svg" width="44" height="44" alt="TheHive" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/misp.svg" width="44" height="44" alt="MISP" />
+    <td width="22%" valign="middle"><b>🛡️ SIEM &amp; SOC</b></td>
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wazuh.svg" width="40" height="40" alt="Wazuh" /><br/><sub><b>Wazuh</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/splunk.svg" width="40" height="40" alt="Splunk" /><br/><sub><b>Splunk</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/thehive.svg" width="40" height="40" alt="TheHive" /><br/><sub><b>TheHive</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/misp.svg" width="40" height="40" alt="MISP" /><br/><sub><b>MISP</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>☁️ Cloud Security</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,azure" height="44" alt="AWS &amp; Azure" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sentinel.svg" width="44" height="44" alt="Microsoft Sentinel" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/aws-iam.svg" width="44" height="44" alt="AWS IAM" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/cloudtrail.svg" width="44" height="44" alt="CloudTrail" />
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /><br/><sub><b>Azure</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sentinel.svg" width="40" height="40" alt="Sentinel" /><br/><sub><b>Sentinel</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/aws-iam.svg" width="40" height="40" alt="AWS IAM" /><br/><sub><b>AWS IAM</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/cloudtrail.svg" width="40" height="40" alt="CloudTrail" /><br/><sub><b>CloudTrail</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🌐 Network Security</b></td>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wireshark.svg" width="44" height="44" alt="Wireshark" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/snort.svg" width="44" height="44" alt="Snort" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/nmap.svg" width="44" height="44" alt="Nmap" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/suricata.svg" width="44" height="44" alt="Suricata" />
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/wireshark.svg" width="40" height="40" alt="Wireshark" /><br/><sub><b>Wireshark</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/snort.svg" width="40" height="40" alt="Snort" /><br/><sub><b>Snort</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/nmap.svg" width="40" height="40" alt="Nmap" /><br/><sub><b>Nmap</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/suricata.svg" width="40" height="40" alt="Suricata" /><br/><sub><b>Suricata</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🎯 Web Security</b></td>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/burpsuite.svg" width="44" height="44" alt="Burp Suite" />
-      <img src="https://skillicons.dev/icons?i=postman" height="44" alt="Postman" />
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite" /><br/><sub><b>Burp Suite</b></sub></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /><br/><sub><b>Postman</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🔍 Threat Detection &amp; Intel</b></td>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sysmon.svg" width="44" height="44" alt="Sysmon" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/yara.svg" width="44" height="44" alt="YARA" />
-      <img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/mitre.svg" width="44" height="44" alt="MITRE ATT&amp;CK" />
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/sysmon.svg" width="40" height="40" alt="Sysmon" /><br/><sub><b>Sysmon</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/yara.svg" width="40" height="40" alt="YARA" /><br/><sub><b>YARA</b></sub></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/NATTOMR/NATTOMR/main/assets/icons/mitre.svg" width="40" height="40" alt="MITRE ATT&amp;CK" /><br/><sub><b>MITRE ATT&amp;CK</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🖥️ Operating Systems</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" height="44" alt="Operating Systems" />
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Kali Linux" /><br/><sub><b>Kali Linux</b></sub></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" /><br/><sub><b>Ubuntu</b></sub></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="Windows" /><br/><sub><b>Windows</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>💻 Web Tools, Languages &amp; DevOps</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,fastapi,react,ts,tailwind,mongodb,docker,git,github,githubactions,vscode" height="44" alt="Tools &amp; Languages" />
+    <td valign="middle"><b>💻 Web Tools &amp; DevOps</b></td>
+    <td>
+      <table border="0">
+        <tr>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=python" width="38" height="38" alt="Python" /><br/><sub><b>Python</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=bash" width="38" height="38" alt="Bash" /><br/><sub><b>Bash</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" alt="C" /><br/><sub><b>C</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=cpp" width="38" height="38" alt="C++" /><br/><sub><b>C++</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=fastapi" width="38" height="38" alt="FastAPI" /><br/><sub><b>FastAPI</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=react" width="38" height="38" alt="React" /><br/><sub><b>React</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=ts" width="38" height="38" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+        </tr>
+        <tr>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=tailwind" width="38" height="38" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=mongodb" width="38" height="38" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=docker" width="38" height="38" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=git" width="38" height="38" alt="Git" /><br/><sub><b>Git</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=github" width="38" height="38" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=githubactions" width="38" height="38" alt="Actions" /><br/><sub><b>Actions</b></sub></td>
+          <td align="center" width="75"><img src="https://skillicons.dev/icons?i=vscode" width="38" height="38" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
