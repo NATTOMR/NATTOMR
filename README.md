@@ -54,7 +54,7 @@ I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybers
 
 * 🏆 **𝗪𝗵𝗮𝘁 𝗜 𝗛𝗮𝘃𝗲 𝗗𝗼𝗻𝗲** — Earned Google Cybersecurity & NPTEL Elite Ethical Hacking (60%, IIT Kharagpur) credentials. Awarded Best Performer at Elevate Labs (Skill India) and built multi-OS Wazuh & Sysmon detection labs.
 * ⚡ **𝗪𝗵𝗮𝘁 𝗜 𝗔𝗺 𝗗𝗼𝗶𝗻𝗴 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆** — Practicing alert triage and incident response on TryHackMe, Hack The Box, and LetsDefend. Writing Python security automation scripts and developing Sigma & YARA detection rules.
-* 🎯 **𝗪𝗵𝗮𝘁 𝗜𝘀 𝗠𝘆 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗼𝗮𝗹** — Targeting Tier-1/Tier-2 SOC Analyst and Security Engineer roles in enterprise defense. Preparing for CompTIA Security+, CySA+, and BTL1 certifications to advance in detection engineering.
+* 🎯 **𝗪𝗵𝗮𝘁 𝗜𝘀 𝗠𝘆 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗼𝗮𝗹** — Targeting Tier-1/Tier-2 SOC Analyst and Security Engineer roles in enterprise defense. Preparing for CompTIA Security+,and BTL1 certifications to advance in detection engineering.
 
 ---
 
