@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  𝗛𝗶, 𝗜'𝗺 𝗡𝗮𝘁𝘁𝗼 𝗠𝘂𝗻𝗶 𝗖𝗵𝗮𝗸𝗺𝗮
+  𝗛𝗶, 𝗜'𝗺 𝗡ATTO MUNI CHAKMA
 </h1>
 
 <h3 align="center">
