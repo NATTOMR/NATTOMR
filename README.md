@@ -19,6 +19,7 @@
   <strong>Threat Detection</strong>,
   <strong>Security Operations (SOC)</strong>,
   <strong>Malware Analysis</strong>,
+  <strong>Incident Responder</strong>,
   and <strong>Detection Engineering</strong>.
 </p>
 
