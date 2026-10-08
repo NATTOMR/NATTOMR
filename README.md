@@ -51,7 +51,7 @@
 
 ## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-I am a **Computer Science & Engineering Graduate (2026)** and dedicated **Cybersecurity & SOC Analyst** focused on defensive security, SIEM log analysis, and incident response.
+A recent **Computer Science & Engineering Graduate (2026)** and dedicated **Cybersecurity & SOC Analyst** focused on defensive security, SIEM log analysis, and incident response.
 
 * 🏆 **𝗪𝗵𝗮𝘁 𝗜 𝗛𝗮𝘃𝗲 𝗗𝗼𝗻𝗲** — Earned Google Cybersecurity & NPTEL Elite Ethical Hacking (60%, IIT Kharagpur) credentials. Awarded Best Performer at Elevate Labs (Skill India) and built multi-OS Wazuh & Sysmon detection labs.
 * ⚡ **𝗪𝗵𝗮𝘁 𝗜 𝗔𝗺 𝗗𝗼𝗶𝗻𝗴 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆** — Practicing alert triage and incident response on TryHackMe, Hack The Box, and LetsDefend. Writing Python security automation scripts and developing Sigma & YARA detection rules.
